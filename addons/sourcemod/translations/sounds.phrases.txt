@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Played sound to target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"Přehrál zvuk pro {1}"
+	}
+}

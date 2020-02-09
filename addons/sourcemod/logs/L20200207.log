@@ -1,0 +1,535 @@
+L 02/07/2020 - 06:26:54: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 06:26:54: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 14:22:10: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 14:22:11: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 14:22:31: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 14:22:31: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 18:18:51: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 18:18:51: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 18:19:00: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 18:19:00: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 18:19:00: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 18:19:01: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 18:23:21: Log file closed.
+L 02/07/2020 - 18:23:30: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 18:23:30: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 18:24:10: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 18:24:12: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 18:24:12: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 18:24:12: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 18:31:03: Log file closed.
+L 02/07/2020 - 18:31:12: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 18:31:12: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 18:31:24: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 18:31:26: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 18:31:26: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 18:31:26: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 18:34:57: Log file closed.
+L 02/07/2020 - 18:35:07: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 18:35:07: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 18:35:12: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 18:35:12: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 18:35:12: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 18:35:13: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 18:40:48: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 20 to 30.
+L 02/07/2020 - 18:40:48: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 30 to 40.
+L 02/07/2020 - 18:40:49: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 40 to 50.
+L 02/07/2020 - 18:40:49: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 50 to 60.
+L 02/07/2020 - 18:40:49: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 60 to 70.
+L 02/07/2020 - 18:40:49: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 70 to 80.
+L 02/07/2020 - 18:40:49: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 80 to 90.
+L 02/07/2020 - 18:40:49: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 90 to 100.
+L 02/07/2020 - 18:40:50: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 100 to 110.
+L 02/07/2020 - 18:40:50: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 110 to 120.
+L 02/07/2020 - 18:40:50: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 120 to 130.
+L 02/07/2020 - 18:40:50: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 130 to 140.
+L 02/07/2020 - 18:40:50: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 140 to 150.
+L 02/07/2020 - 18:40:51: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 150 to 160.
+L 02/07/2020 - 18:40:51: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 160 to 170.
+L 02/07/2020 - 18:40:51: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 170 to 180.
+L 02/07/2020 - 18:40:51: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 180 to 190.
+L 02/07/2020 - 18:40:51: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 190 to 200.
+L 02/07/2020 - 18:40:59: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 200 to 210.
+L 02/07/2020 - 18:40:59: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 210 to 220.
+L 02/07/2020 - 18:40:59: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 220 to 230.
+L 02/07/2020 - 18:40:59: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 230 to 240.
+L 02/07/2020 - 18:40:59: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 240 to 250.
+L 02/07/2020 - 18:40:59: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 250 to 260.
+L 02/07/2020 - 18:41:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 260 to 270.
+L 02/07/2020 - 18:41:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 270 to 280.
+L 02/07/2020 - 18:41:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 280 to 290.
+L 02/07/2020 - 18:41:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 290 to 300.
+L 02/07/2020 - 18:41:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 300 to 310.
+L 02/07/2020 - 18:41:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 310 to 320.
+L 02/07/2020 - 18:41:01: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 320 to 330.
+L 02/07/2020 - 18:41:01: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 330 to 340.
+L 02/07/2020 - 18:41:01: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 340 to 350.
+L 02/07/2020 - 18:41:01: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 350 to 360.
+L 02/07/2020 - 18:41:01: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 360 to 370.
+L 02/07/2020 - 18:41:02: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 370 to 380.
+L 02/07/2020 - 18:41:02: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 380 to 390.
+L 02/07/2020 - 18:41:02: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 390 to 400.
+L 02/07/2020 - 18:41:02: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 400 to 410.
+L 02/07/2020 - 18:41:02: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 410 to 420.
+L 02/07/2020 - 18:41:03: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 420 to 430.
+L 02/07/2020 - 18:41:03: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 430 to 440.
+L 02/07/2020 - 18:41:03: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 440 to 450.
+L 02/07/2020 - 18:41:03: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 450 to 460.
+L 02/07/2020 - 18:41:04: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 460 to 470.
+L 02/07/2020 - 18:41:04: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 470 to 480.
+L 02/07/2020 - 18:41:04: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 480 to 490.
+L 02/07/2020 - 18:41:04: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 490 to 500.
+L 02/07/2020 - 18:41:04: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 500 to 510.
+L 02/07/2020 - 18:41:05: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 510 to 520.
+L 02/07/2020 - 18:41:05: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 520 to 530.
+L 02/07/2020 - 18:41:05: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 530 to 540.
+L 02/07/2020 - 18:41:05: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 540 to 550.
+L 02/07/2020 - 18:41:05: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 550 to 560.
+L 02/07/2020 - 18:41:06: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 560 to 570.
+L 02/07/2020 - 18:41:06: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 570 to 580.
+L 02/07/2020 - 18:41:06: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 580 to 590.
+L 02/07/2020 - 18:41:06: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 590 to 600.
+L 02/07/2020 - 18:41:06: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 600 to 610.
+L 02/07/2020 - 18:41:07: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 610 to 620.
+L 02/07/2020 - 18:41:07: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 620 to 630.
+L 02/07/2020 - 18:41:07: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 630 to 640.
+L 02/07/2020 - 18:41:07: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 640 to 650.
+L 02/07/2020 - 18:41:07: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 650 to 660.
+L 02/07/2020 - 18:41:08: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 660 to 670.
+L 02/07/2020 - 18:41:08: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 670 to 680.
+L 02/07/2020 - 18:41:08: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 680 to 690.
+L 02/07/2020 - 18:41:08: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 690 to 700.
+L 02/07/2020 - 18:41:08: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 700 to 710.
+L 02/07/2020 - 18:41:08: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 710 to 720.
+L 02/07/2020 - 18:41:09: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 720 to 730.
+L 02/07/2020 - 18:41:09: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 730 to 740.
+L 02/07/2020 - 18:41:09: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 740 to 750.
+L 02/07/2020 - 18:41:09: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 750 to 760.
+L 02/07/2020 - 18:41:09: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 760 to 770.
+L 02/07/2020 - 18:41:09: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 770 to 780.
+L 02/07/2020 - 18:41:10: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 780 to 790.
+L 02/07/2020 - 18:41:10: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 790 to 800.
+L 02/07/2020 - 18:41:10: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 800 to 810.
+L 02/07/2020 - 18:41:10: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 810 to 820.
+L 02/07/2020 - 18:41:10: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 820 to 830.
+L 02/07/2020 - 18:41:10: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 830 to 840.
+L 02/07/2020 - 18:41:11: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 840 to 850.
+L 02/07/2020 - 18:41:11: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 850 to 860.
+L 02/07/2020 - 18:41:11: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 860 to 870.
+L 02/07/2020 - 18:41:11: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 870 to 880.
+L 02/07/2020 - 18:41:11: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 880 to 890.
+L 02/07/2020 - 18:41:12: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 890 to 900.
+L 02/07/2020 - 18:41:12: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 900 to 910.
+L 02/07/2020 - 18:41:12: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 910 to 920.
+L 02/07/2020 - 18:41:13: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 920 to 930.
+L 02/07/2020 - 18:41:13: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 930 to 940.
+L 02/07/2020 - 18:41:13: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 940 to 950.
+L 02/07/2020 - 18:41:13: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 950 to 960.
+L 02/07/2020 - 18:41:13: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 960 to 970.
+L 02/07/2020 - 18:41:13: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 970 to 980.
+L 02/07/2020 - 18:41:14: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 980 to 990.
+L 02/07/2020 - 18:41:14: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 990 to 1000.
+L 02/07/2020 - 18:41:14: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 1000 to 1000.
+L 02/07/2020 - 18:41:14: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 1000 to 1000.
+L 02/07/2020 - 18:41:14: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 1000 to 1000.
+L 02/07/2020 - 18:41:15: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 1000 to 1000.
+L 02/07/2020 - 18:41:15: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 1000 to 1000.
+L 02/07/2020 - 18:42:29: Log file closed.
+L 02/07/2020 - 18:42:42: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 18:42:42: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 18:42:51: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 18:42:51: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 18:42:51: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 18:42:53: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 19:02:53: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 19:02:53: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 19:06:34: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 19:06:34: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 19:06:34: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 19:06:36: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 19:10:55: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 7 and has 159/320 Experience (previously Level 4 with 59/290 Experience)
+L 02/07/2020 - 19:11:04: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> set all upgrades of SρyBҽҽ<2><STEAM_1:1:160125472><> to the maximal level at no charge.
+L 02/07/2020 - 19:14:09: [funcommands.smx] "SρyBҽҽ<2><STEAM_1:1:160125472><>" toggled noclip on "SρyBҽҽ<2><STEAM_1:1:160125472><>"
+L 02/07/2020 - 19:14:15: [funcommands.smx] "SρyBҽҽ<2><STEAM_1:1:160125472><>" toggled noclip on "SρyBҽҽ<2><STEAM_1:1:160125472><>"
+L 02/07/2020 - 19:14:26: [funcommands.smx] "SρyBҽҽ<2><STEAM_1:1:160125472><>" toggled noclip on "SρyBҽҽ<2><STEAM_1:1:160125472><>"
+L 02/07/2020 - 19:14:36: [funcommands.smx] "SρyBҽҽ<2><STEAM_1:1:160125472><>" toggled noclip on "SρyBҽҽ<2><STEAM_1:1:160125472><>"
+L 02/07/2020 - 19:14:41: [funcommands.smx] "SρyBҽҽ<2><STEAM_1:1:160125472><>" toggled noclip on "SρyBҽҽ<2><STEAM_1:1:160125472><>"
+L 02/07/2020 - 19:14:43: [funcommands.smx] "SρyBҽҽ<2><STEAM_1:1:160125472><>" toggled noclip on "SρyBҽҽ<2><STEAM_1:1:160125472><>"
+L 02/07/2020 - 19:14:44: [funcommands.smx] "SρyBҽҽ<2><STEAM_1:1:160125472><>" toggled noclip on "SρyBҽҽ<2><STEAM_1:1:160125472><>"
+L 02/07/2020 - 19:15:00: [funcommands.smx] "SρyBҽҽ<2><STEAM_1:1:160125472><>" toggled noclip on "SρyBҽҽ<2><STEAM_1:1:160125472><>"
+L 02/07/2020 - 19:15:11: [funcommands.smx] "SρyBҽҽ<2><STEAM_1:1:160125472><>" toggled noclip on "SρyBҽҽ<2><STEAM_1:1:160125472><>"
+L 02/07/2020 - 19:17:58: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 19:17:58: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 19:32:48: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 19:32:48: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 19:45:48: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 19:45:48: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 19:46:08: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 19:46:08: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 19:46:08: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 19:46:09: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 20:00:47: Log file closed.
+L 02/07/2020 - 20:00:54: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 20:00:54: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 02/07/2020 - 20:00:55: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 20:01:01: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 20:01:01: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 20:01:01: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 20:01:02: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 20:06:19: Log file closed.
+L 02/07/2020 - 20:06:29: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 20:06:29: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 02/07/2020 - 20:06:30: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 20:08:08: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 20:08:08: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 20:08:14: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 20:08:15: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 20:08:15: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 20:08:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 22:00:56: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 22:00:57: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 22:00:57: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 22:00:57: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 22:01:32: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> permanently reset all stats of player Fᴀɴʏ<3><STEAM_1:0:147823631><>.
+L 02/07/2020 - 22:06:18: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> permanently reset all stats of player Fᴀɴʏ<3><STEAM_1:0:147823631><>.
+L 02/07/2020 - 22:06:33: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> permanently reset all stats of player Fᴀɴʏ<3><STEAM_1:0:147823631><>.
+L 02/07/2020 - 22:06:40: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> permanently reset all stats of player Fᴀɴʏ<3><STEAM_1:0:147823631><>.
+L 02/07/2020 - 22:06:50: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> changed credits of Fᴀɴʏ<3><STEAM_1:0:147823631><> by -100 from 0 to 0.
+L 02/07/2020 - 22:06:50: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> changed credits of Fᴀɴʏ<3><STEAM_1:0:147823631><> by -100 from 0 to 0.
+L 02/07/2020 - 22:06:50: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> changed credits of Fᴀɴʏ<3><STEAM_1:0:147823631><> by -100 from 0 to 0.
+L 02/07/2020 - 22:06:51: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> changed credits of Fᴀɴʏ<3><STEAM_1:0:147823631><> by -100 from 0 to 0.
+L 02/07/2020 - 22:06:51: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> changed credits of Fᴀɴʏ<3><STEAM_1:0:147823631><> by -100 from 0 to 0.
+L 02/07/2020 - 22:06:51: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> changed credits of Fᴀɴʏ<3><STEAM_1:0:147823631><> by -100 from 0 to 0.
+L 02/07/2020 - 22:06:51: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> changed credits of Fᴀɴʏ<3><STEAM_1:0:147823631><> by -100 from 0 to 0.
+L 02/07/2020 - 22:06:52: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> changed credits of Fᴀɴʏ<3><STEAM_1:0:147823631><> by -100 from 0 to 0.
+L 02/07/2020 - 22:06:52: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> changed credits of Fᴀɴʏ<3><STEAM_1:0:147823631><> by -100 from 0 to 0.
+L 02/07/2020 - 22:06:52: [smrpg.smx] SρyBҽҽ<5><STEAM_1:1:160125472><> changed credits of Fᴀɴʏ<3><STEAM_1:0:147823631><> by -100 from 0 to 0.
+L 02/07/2020 - 22:10:09: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 0 to 100.
+L 02/07/2020 - 22:10:09: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 100 to 200.
+L 02/07/2020 - 22:10:09: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 200 to 300.
+L 02/07/2020 - 22:10:09: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 300 to 400.
+L 02/07/2020 - 22:10:10: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 400 to 500.
+L 02/07/2020 - 22:10:10: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 500 to 600.
+L 02/07/2020 - 22:10:10: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 600 to 700.
+L 02/07/2020 - 22:10:10: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 700 to 800.
+L 02/07/2020 - 22:10:10: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 800 to 900.
+L 02/07/2020 - 22:10:11: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 900 to 1000.
+L 02/07/2020 - 22:10:11: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 1000 to 1100.
+L 02/07/2020 - 22:10:11: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 1100 to 1200.
+L 02/07/2020 - 22:10:11: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 1200 to 1300.
+L 02/07/2020 - 22:10:11: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 1300 to 1400.
+L 02/07/2020 - 22:10:12: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 1400 to 1500.
+L 02/07/2020 - 22:10:12: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 1500 to 1600.
+L 02/07/2020 - 22:10:12: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 1600 to 1700.
+L 02/07/2020 - 22:10:12: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 1700 to 1800.
+L 02/07/2020 - 22:10:12: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 1800 to 1900.
+L 02/07/2020 - 22:10:13: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 1900 to 2000.
+L 02/07/2020 - 22:10:13: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 2000 to 2100.
+L 02/07/2020 - 22:10:13: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 2100 to 2200.
+L 02/07/2020 - 22:10:13: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 2200 to 2300.
+L 02/07/2020 - 22:10:13: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 2300 to 2400.
+L 02/07/2020 - 22:10:14: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 2400 to 2500.
+L 02/07/2020 - 22:10:14: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 2500 to 2600.
+L 02/07/2020 - 22:10:14: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 2600 to 2700.
+L 02/07/2020 - 22:10:14: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 2700 to 2800.
+L 02/07/2020 - 22:10:14: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 2800 to 2900.
+L 02/07/2020 - 22:10:15: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 2900 to 3000.
+L 02/07/2020 - 22:10:15: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 3000 to 3100.
+L 02/07/2020 - 22:10:15: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 3100 to 3200.
+L 02/07/2020 - 22:10:15: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 3200 to 3300.
+L 02/07/2020 - 22:10:15: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 3300 to 3400.
+L 02/07/2020 - 22:10:16: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 3400 to 3500.
+L 02/07/2020 - 22:10:16: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 3500 to 3600.
+L 02/07/2020 - 22:10:16: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 3600 to 3700.
+L 02/07/2020 - 22:10:16: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 3700 to 3800.
+L 02/07/2020 - 22:10:17: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 3800 to 3900.
+L 02/07/2020 - 22:10:17: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 3900 to 4000.
+L 02/07/2020 - 22:10:17: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 4000 to 4100.
+L 02/07/2020 - 22:10:17: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 4100 to 4200.
+L 02/07/2020 - 22:10:17: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 4200 to 4300.
+L 02/07/2020 - 22:10:18: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 4300 to 4400.
+L 02/07/2020 - 22:10:18: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 4400 to 4500.
+L 02/07/2020 - 22:10:18: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 4500 to 4600.
+L 02/07/2020 - 22:10:18: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 4600 to 4700.
+L 02/07/2020 - 22:10:18: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 4700 to 4800.
+L 02/07/2020 - 22:10:19: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 4800 to 4900.
+L 02/07/2020 - 22:10:19: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 4900 to 5000.
+L 02/07/2020 - 22:10:19: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 5000 to 5100.
+L 02/07/2020 - 22:10:19: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 5100 to 5200.
+L 02/07/2020 - 22:10:20: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 5200 to 5300.
+L 02/07/2020 - 22:10:20: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 5300 to 5400.
+L 02/07/2020 - 22:10:20: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 5400 to 5500.
+L 02/07/2020 - 22:10:20: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 5500 to 5600.
+L 02/07/2020 - 22:10:21: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 5600 to 5700.
+L 02/07/2020 - 22:10:21: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 5700 to 5800.
+L 02/07/2020 - 22:10:21: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 5800 to 5900.
+L 02/07/2020 - 22:10:22: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 5900 to 6000.
+L 02/07/2020 - 22:10:22: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 6000 to 6100.
+L 02/07/2020 - 22:10:22: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 6100 to 6200.
+L 02/07/2020 - 22:10:22: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 6200 to 6300.
+L 02/07/2020 - 22:10:23: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of Gustiksarapatka<6><STEAM_1:1:28146792><> by 100 from 6300 to 6400.
+L 02/07/2020 - 22:20:47: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 7 to 17.
+L 02/07/2020 - 22:20:48: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 17 to 27.
+L 02/07/2020 - 22:20:48: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 27 to 37.
+L 02/07/2020 - 22:20:48: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 37 to 47.
+L 02/07/2020 - 22:20:48: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 47 to 57.
+L 02/07/2020 - 22:20:48: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 57 to 67.
+L 02/07/2020 - 22:20:48: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 67 to 77.
+L 02/07/2020 - 22:20:48: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 77 to 87.
+L 02/07/2020 - 22:20:49: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 87 to 97.
+L 02/07/2020 - 22:20:49: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 97 to 107.
+L 02/07/2020 - 22:20:49: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 107 to 117.
+L 02/07/2020 - 22:20:49: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 117 to 127.
+L 02/07/2020 - 22:20:49: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 127 to 137.
+L 02/07/2020 - 22:20:49: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 137 to 147.
+L 02/07/2020 - 22:20:50: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 147 to 157.
+L 02/07/2020 - 22:20:50: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 157 to 167.
+L 02/07/2020 - 22:20:50: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 167 to 177.
+L 02/07/2020 - 22:20:50: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 177 to 187.
+L 02/07/2020 - 22:20:51: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 187 to 197.
+L 02/07/2020 - 22:20:51: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> changed level of Fᴀɴʏ<3><STEAM_1:0:147823631><> by 10 from 197 to 207.
+L 02/07/2020 - 22:24:37: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Gustiksarapatka<6><STEAM_1:1:28146792><> the maximal level of upgrade Long Jump at no charge. Upgrade level changed from 9 to 10.
+L 02/07/2020 - 22:25:49: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> permanently reset all stats of player Fᴀɴʏ<3><STEAM_1:0:147823631><>.
+L 02/07/2020 - 22:26:15: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Stealth at no charge. Upgrade level changed from 0 to 1.
+L 02/07/2020 - 22:26:17: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Stealth at no charge. Upgrade level changed from 1 to 2.
+L 02/07/2020 - 22:26:17: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Stealth at no charge. Upgrade level changed from 2 to 3.
+L 02/07/2020 - 22:26:18: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Stealth at no charge. Upgrade level changed from 3 to 4.
+L 02/07/2020 - 22:26:19: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Stealth at no charge. Upgrade level changed from 4 to 5.
+L 02/07/2020 - 22:26:20: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Stealth at no charge. Upgrade level changed from 5 to 5.
+L 02/07/2020 - 22:30:03: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> the maximal level of upgrade Long Jump at no charge. Upgrade level changed from 0 to 10.
+L 02/07/2020 - 22:30:03: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> the maximal level of upgrade Long Jump at no charge. Upgrade level changed from 10 to 10.
+L 02/07/2020 - 22:30:03: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> the maximal level of upgrade Long Jump at no charge. Upgrade level changed from 10 to 10.
+L 02/07/2020 - 22:38:56: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> reset upgrade Long Jump of Fᴀɴʏ<3><STEAM_1:0:147823631><> with full refund of all upgrade costs. Upgrade level changed from 10 to 0 and player earned 235 credits.
+L 02/07/2020 - 22:44:29: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 4 to 5.
+L 02/07/2020 - 22:44:29: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 5 to 6.
+L 02/07/2020 - 22:44:29: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 6 to 7.
+L 02/07/2020 - 22:44:29: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 7 to 8.
+L 02/07/2020 - 22:44:30: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 8 to 9.
+L 02/07/2020 - 22:44:30: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 9 to 10.
+L 02/07/2020 - 22:44:35: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Long Jump at no charge. Upgrade level changed from 10 to 10.
+L 02/07/2020 - 22:44:38: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> reset upgrade HP Regeneration of Fᴀɴʏ<3><STEAM_1:0:147823631><> with full refund of all upgrade costs. Upgrade level changed from 10 to 0 and player earned 235 credits.
+L 02/07/2020 - 22:44:41: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 0 to 1.
+L 02/07/2020 - 22:44:41: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 1 to 2.
+L 02/07/2020 - 22:44:42: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 2 to 3.
+L 02/07/2020 - 22:44:42: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 3 to 4.
+L 02/07/2020 - 22:44:42: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 4 to 5.
+L 02/07/2020 - 22:44:42: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 5 to 6.
+L 02/07/2020 - 22:44:42: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 6 to 7.
+L 02/07/2020 - 22:44:42: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 7 to 8.
+L 02/07/2020 - 22:44:43: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 8 to 9.
+L 02/07/2020 - 22:44:43: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 9 to 10.
+L 02/07/2020 - 22:44:43: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade HP Regeneration at no charge. Upgrade level changed from 10 to 10.
+L 02/07/2020 - 22:44:59: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Vampire at no charge. Upgrade level changed from 0 to 1.
+L 02/07/2020 - 22:45:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Vampire at no charge. Upgrade level changed from 1 to 2.
+L 02/07/2020 - 22:45:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Vampire at no charge. Upgrade level changed from 2 to 3.
+L 02/07/2020 - 22:45:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Vampire at no charge. Upgrade level changed from 3 to 4.
+L 02/07/2020 - 22:45:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Vampire at no charge. Upgrade level changed from 4 to 5.
+L 02/07/2020 - 22:45:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Vampire at no charge. Upgrade level changed from 5 to 6.
+L 02/07/2020 - 22:45:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Vampire at no charge. Upgrade level changed from 6 to 7.
+L 02/07/2020 - 22:45:00: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Vampire at no charge. Upgrade level changed from 7 to 8.
+L 02/07/2020 - 22:45:01: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Vampire at no charge. Upgrade level changed from 8 to 9.
+L 02/07/2020 - 22:45:01: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Vampire at no charge. Upgrade level changed from 9 to 10.
+L 02/07/2020 - 22:45:15: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Fire Pistol at no charge. Upgrade level changed from 0 to 1.
+L 02/07/2020 - 22:45:15: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Fire Pistol at no charge. Upgrade level changed from 1 to 2.
+L 02/07/2020 - 22:45:15: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Fire Pistol at no charge. Upgrade level changed from 2 to 3.
+L 02/07/2020 - 22:45:15: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Fire Pistol at no charge. Upgrade level changed from 3 to 4.
+L 02/07/2020 - 22:45:15: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Fire Pistol at no charge. Upgrade level changed from 4 to 5.
+L 02/07/2020 - 22:45:16: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Fire Pistol at no charge. Upgrade level changed from 5 to 6.
+L 02/07/2020 - 22:45:16: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Fire Pistol at no charge. Upgrade level changed from 6 to 7.
+L 02/07/2020 - 22:45:16: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Fire Pistol at no charge. Upgrade level changed from 7 to 8.
+L 02/07/2020 - 22:45:16: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Fire Pistol at no charge. Upgrade level changed from 8 to 9.
+L 02/07/2020 - 22:45:16: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Fire Pistol at no charge. Upgrade level changed from 9 to 10.
+L 02/07/2020 - 22:45:26: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Health+ at no charge. Upgrade level changed from 0 to 1.
+L 02/07/2020 - 22:45:26: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Health+ at no charge. Upgrade level changed from 1 to 2.
+L 02/07/2020 - 22:45:27: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Health+ at no charge. Upgrade level changed from 2 to 3.
+L 02/07/2020 - 22:45:27: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Health+ at no charge. Upgrade level changed from 3 to 4.
+L 02/07/2020 - 22:45:27: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Health+ at no charge. Upgrade level changed from 4 to 5.
+L 02/07/2020 - 22:45:27: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Health+ at no charge. Upgrade level changed from 5 to 6.
+L 02/07/2020 - 22:45:27: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Health+ at no charge. Upgrade level changed from 6 to 7.
+L 02/07/2020 - 22:45:27: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Health+ at no charge. Upgrade level changed from 7 to 8.
+L 02/07/2020 - 22:45:28: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Health+ at no charge. Upgrade level changed from 8 to 9.
+L 02/07/2020 - 22:45:28: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Health+ at no charge. Upgrade level changed from 9 to 10.
+L 02/07/2020 - 22:45:28: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Health+ at no charge. Upgrade level changed from 10 to 10.
+L 02/07/2020 - 22:45:37: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Armor+ at no charge. Upgrade level changed from 0 to 1.
+L 02/07/2020 - 22:45:38: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Armor+ at no charge. Upgrade level changed from 1 to 2.
+L 02/07/2020 - 22:45:38: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Armor+ at no charge. Upgrade level changed from 2 to 3.
+L 02/07/2020 - 22:45:38: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Armor+ at no charge. Upgrade level changed from 3 to 4.
+L 02/07/2020 - 22:45:39: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Armor+ at no charge. Upgrade level changed from 4 to 5.
+L 02/07/2020 - 22:45:39: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Armor+ at no charge. Upgrade level changed from 5 to 6.
+L 02/07/2020 - 22:45:39: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Armor+ at no charge. Upgrade level changed from 6 to 7.
+L 02/07/2020 - 22:45:39: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Armor+ at no charge. Upgrade level changed from 7 to 8.
+L 02/07/2020 - 22:45:39: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Armor+ at no charge. Upgrade level changed from 8 to 9.
+L 02/07/2020 - 22:45:39: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Armor+ at no charge. Upgrade level changed from 9 to 10.
+L 02/07/2020 - 22:45:40: [smrpg.smx] Fᴀɴʏ<3><STEAM_1:0:147823631><> gave Fᴀɴʏ<3><STEAM_1:0:147823631><> one level of upgrade Armor+ at no charge. Upgrade level changed from 10 to 10.
+L 02/07/2020 - 22:50:37: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> permanently reset all stats of player SρyBҽҽ<7><STEAM_1:1:160125472><>.
+L 02/07/2020 - 22:50:55: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 0 to 100.
+L 02/07/2020 - 22:50:55: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 100 to 200.
+L 02/07/2020 - 22:50:55: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 200 to 300.
+L 02/07/2020 - 22:50:55: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 300 to 400.
+L 02/07/2020 - 22:50:55: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 400 to 500.
+L 02/07/2020 - 22:50:56: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 500 to 600.
+L 02/07/2020 - 22:50:56: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 600 to 700.
+L 02/07/2020 - 22:50:56: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 700 to 800.
+L 02/07/2020 - 22:50:56: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 800 to 900.
+L 02/07/2020 - 22:50:57: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 900 to 1000.
+L 02/07/2020 - 22:50:57: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 1000 to 1100.
+L 02/07/2020 - 22:50:57: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 1100 to 1200.
+L 02/07/2020 - 22:50:57: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 1200 to 1300.
+L 02/07/2020 - 22:50:58: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 1300 to 1400.
+L 02/07/2020 - 22:50:58: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 1400 to 1500.
+L 02/07/2020 - 22:50:58: [smrpg.smx] SρyBҽҽ<7><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<7><STEAM_1:1:160125472><> by 100 from 1500 to 1600.
+L 02/07/2020 - 23:02:59: Log file closed.
+L 02/07/2020 - 23:03:11: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 23:03:11: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 23:05:02: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 23:05:02: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 23:05:02: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 23:05:03: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 23:07:03: Log file closed.
+L 02/07/2020 - 23:07:12: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 23:07:12: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 23:07:18: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 23:07:19: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 23:07:28: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 23:07:28: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 23:11:25: Log file closed.
+L 02/07/2020 - 23:11:34: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 23:11:34: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 23:11:42: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 23:11:42: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 23:11:42: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 23:11:44: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 23:15:07: Log file closed.
+L 02/07/2020 - 23:15:16: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200207.log") (Version "1.10.0.6459")
+L 02/07/2020 - 23:15:16: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 23:15:19: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/07/2020 - 23:15:19: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/07/2020 - 23:15:19: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/07/2020 - 23:15:20: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/07/2020 - 23:15:43: [smrpg.smx] SρyBҽҽ<3><STEAM_1:1:160125472><> permanently reset all stats of player SρyBҽҽ<3><STEAM_1:1:160125472><>.
+L 02/07/2020 - 23:16:03: [smrpg.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> reset upgrade Long Jump of Fᴀɴʏ<2><STEAM_1:0:147823631><> with full refund of all upgrade costs. Upgrade level changed from 10 to 0 and player earned 235 credits.
+L 02/07/2020 - 23:16:14: [smrpg.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> reset upgrade HP Regeneration of Fᴀɴʏ<2><STEAM_1:0:147823631><> with full refund of all upgrade costs. Upgrade level changed from 10 to 0 and player earned 235 credits.
+L 02/07/2020 - 23:16:50: [smrpg.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> reset upgrade Fire Pistol of Fᴀɴʏ<2><STEAM_1:0:147823631><> with full refund of all upgrade costs. Upgrade level changed from 10 to 0 and player earned 235 credits.
+L 02/07/2020 - 23:17:03: [smrpg.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> reset upgrade Vampire of Fᴀɴʏ<2><STEAM_1:0:147823631><> with full refund of all upgrade costs. Upgrade level changed from 10 to 0 and player earned 235 credits.
+L 02/07/2020 - 23:17:09: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Fᴀɴʏ<2><STEAM_1:0:147823631><>" (damage "0")
+L 02/07/2020 - 23:17:09: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Fᴀɴʏ<2><STEAM_1:0:147823631><>" (damage "0")
+L 02/07/2020 - 23:17:09: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Fᴀɴʏ<2><STEAM_1:0:147823631><>" (damage "0")
+L 02/07/2020 - 23:17:10: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Fᴀɴʏ<2><STEAM_1:0:147823631><>" (damage "0")
+L 02/07/2020 - 23:17:13: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:13: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:13: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:13: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:14: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:14: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:14: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:14: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:14: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:15: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:15: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:15: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:15: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:15: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:16: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:16: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:16: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:17: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:17: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:17: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:18: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:18: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:18: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:18: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:19: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:19: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:19: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:19: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:20: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:20: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:20: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:21: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:21: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:21: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:21: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:22: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:23: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:23: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:23: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:23: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:24: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:24: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:24: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:24: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:25: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:25: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:25: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:26: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:26: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:26: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:26: [smrpg.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> reset upgrade Health+ of Fᴀɴʏ<2><STEAM_1:0:147823631><> with full refund of all upgrade costs. Upgrade level changed from 10 to 0 and player earned 475 credits.
+L 02/07/2020 - 23:17:26: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:26: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:27: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:27: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:27: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:27: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:28: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:28: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:28: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:28: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:28: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:29: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:29: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:29: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:29: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:29: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:30: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:30: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:30: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:36: [smrpg.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> reset upgrade Stealth of Fᴀɴʏ<2><STEAM_1:0:147823631><> with full refund of all upgrade costs. Upgrade level changed from 5 to 0 and player earned 875 credits.
+L 02/07/2020 - 23:17:39: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Fᴀɴʏ<2><STEAM_1:0:147823631><>" (damage "0")
+L 02/07/2020 - 23:17:39: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Fᴀɴʏ<2><STEAM_1:0:147823631><>" (damage "0")
+L 02/07/2020 - 23:17:39: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Fᴀɴʏ<2><STEAM_1:0:147823631><>" (damage "0")
+L 02/07/2020 - 23:17:39: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Fᴀɴʏ<2><STEAM_1:0:147823631><>" (damage "0")
+L 02/07/2020 - 23:17:40: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:40: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:40: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:40: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:41: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:41: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:41: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:41: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:41: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:42: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:42: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:42: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:42: [smrpg.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> reset upgrade Armor+ of Fᴀɴʏ<2><STEAM_1:0:147823631><> with full refund of all upgrade costs. Upgrade level changed from 10 to 0 and player earned 325 credits.
+L 02/07/2020 - 23:17:42: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:43: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:43: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:43: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:43: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:44: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:44: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:44: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:44: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:44: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:45: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:45: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:45: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:45: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:46: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:46: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:46: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:46: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:47: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:47: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:47: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:47: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:47: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:48: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:17:48: [playercommands.smx] "SρyBҽҽ<3><STEAM_1:1:160125472><>" slapped "Mýďa<5><STEAM_1:1:114111505><>" (damage "0")
+L 02/07/2020 - 23:19:28: [smrpg.smx] SρyBҽҽ<3><STEAM_1:1:160125472><> set all upgrades of Mýďa<5><STEAM_1:1:114111505><> to the maximal level at no charge.
+L 02/07/2020 - 23:19:41: [smrpg.smx] SρyBҽҽ<3><STEAM_1:1:160125472><> set all upgrades of Dr. Carson Beckett<11><STEAM_1:0:121555786><> to the maximal level at no charge.
+L 02/07/2020 - 23:22:13: [smrpg_cstrike.smx] Dr. Carson Beckett<11><STEAM_1:0:121555786><> (lvl 8) is knifeleveling with Mýďa<5><STEAM_1:1:114111505><> (lvl 10).
+L 02/07/2020 - 23:24:12: [smrpg_cstrike.smx] Mýďa<5><STEAM_1:1:114111505><> (lvl 22) is knifeleveling with Dr. Carson Beckett<11><STEAM_1:0:121555786><> (lvl 8).
+L 02/07/2020 - 23:25:36: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text ticho budte uz)

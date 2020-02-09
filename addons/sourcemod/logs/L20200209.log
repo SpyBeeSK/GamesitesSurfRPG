@@ -1,0 +1,20 @@
+L 02/09/2020 - 06:26:53: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200209.log") (Version "1.10.0.6459")
+L 02/09/2020 - 06:26:53: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/09/2020 - 10:57:04: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/09/2020 - 10:57:05: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/09/2020 - 10:57:25: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/09/2020 - 10:57:25: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/09/2020 - 12:01:39: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200209.log") (Version "1.10.0.6459")
+L 02/09/2020 - 12:01:39: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/09/2020 - 12:24:14: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200209.log") (Version "1.10.0.6459")
+L 02/09/2020 - 12:24:14: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/09/2020 - 12:26:17: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/09/2020 - 12:26:17: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/09/2020 - 12:26:17: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/09/2020 - 12:26:18: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/09/2020 - 12:26:18: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/09/2020 - 12:26:18: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/09/2020 - 12:30:31: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/09/2020 - 12:30:32: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/09/2020 - 12:30:32: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/09/2020 - 12:30:32: [chat-processor.smx] Successfully hooked a SayText2 chat hook.

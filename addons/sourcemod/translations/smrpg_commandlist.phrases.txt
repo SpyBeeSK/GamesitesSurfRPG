@@ -1,0 +1,12 @@
+"Phrases"
+{
+	"Commands"
+	{
+		"cze"			"Příkazy"
+	}
+	
+	"Hide chat adverts"
+	{
+		"cze"			"Skrýt dostupné příkazové zprávy v chatu"
+	}
+}

@@ -1,0 +1,2 @@
+L 02/05/2020 - 06:26:54: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200205.log") (Version "1.10.0.6459")
+L 02/05/2020 - 06:26:54: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime

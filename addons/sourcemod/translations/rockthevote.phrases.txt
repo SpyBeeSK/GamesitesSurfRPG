@@ -1,0 +1,75 @@
+"Phrases"
+{
+	"Rock The Vote"
+	{
+		"cze"			"RTV:"
+	}
+	
+	"RTV Not Allowed"
+	{
+		"cze"			"RTV je nyní povoleno."
+	}
+	
+	"RTV Started"
+	{
+		"cze"			"RTV již začalo."
+	}
+
+	"RTV Ended"
+	{
+		"cze"			"RTV bylo již ukončeno, nemůžeš již hlasovat nebo nominovat mapu."
+
+	}
+	
+	"Already Voted"
+	{
+ 		"#format"		"{1:d},{2:d}"
+	 	"cze"			"Již jsi hlasoval v RTV. ({1} hlasů, {2} potřeba)"
+	}
+	
+	"Minimal Players Not Met"
+	{
+		"cze"			"Nebyl dosáhnut minimální počet hráčů."
+	}
+	
+	
+	"RTV Requested"
+	{
+		"#format"		"{1:s},{2:d},{3:d}"
+		"cze"			"{1} chce RTV. ({2} hlasů, {3} potřeba)"
+	}
+	
+	"RTV Vote Ready"
+	{
+		"cze"			"RTV hlasování je připraveno!"
+
+	}
+	
+	"Don't Change"
+	{
+		"cze"			"Nechat současnou mapu"
+	}
+	
+	
+	"Selected Map"
+	{
+		"#format"		"{1:s},{2:s}"
+		"cze"			"{1} vybral {2}"
+	}
+	
+	"No Votes"
+	{
+		"cze"			"Nebyly podány žádné hlasy, zůstává současná mapa."
+	}
+	
+	"Current Map Stays"
+	{
+		"cze"			"Současná mapa pokračuje! RTV promluvilo!"
+	}
+	
+	"Changing Maps"
+	{
+		"#format"		"{1:s}"
+		"cze"			"Další mapou bude {1}!"
+	}
+}

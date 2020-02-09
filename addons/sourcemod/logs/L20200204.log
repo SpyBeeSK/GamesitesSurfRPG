@@ -1,0 +1,16 @@
+L 02/04/2020 - 01:21:43: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200204.log") (Version "1.10.0.6459")
+L 02/04/2020 - 01:21:43: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/04/2020 - 01:30:38: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200204.log") (Version "1.10.0.6459")
+L 02/04/2020 - 01:30:38: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/04/2020 - 06:26:51: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200204.log") (Version "1.10.0.6459")
+L 02/04/2020 - 06:26:51: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/04/2020 - 22:39:41: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/04/2020 - 22:39:41: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/04/2020 - 22:39:41: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/04/2020 - 22:39:42: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/04/2020 - 22:41:14: [smrpg.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> toggled the teamlock on upgrade Long Jump temporarily to restrict to team "TERRORIST".
+L 02/04/2020 - 22:41:15: [smrpg.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> toggled the teamlock on upgrade Long Jump temporarily to restrict to team "CT".
+L 02/04/2020 - 22:41:16: [smrpg.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> toggled the teamlock on upgrade Long Jump temporarily to restrict to team "None".
+L 02/04/2020 - 22:41:24: [smrpg_disablexp.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> disabled experience gaining for Fᴀɴʏ<2><STEAM_1:0:147823631><>.
+L 02/04/2020 - 22:41:25: [smrpg_disablexp.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> enabled experience gaining for Fᴀɴʏ<2><STEAM_1:0:147823631><>.
+L 02/04/2020 - 22:41:38: [smrpg.smx] Fᴀɴʏ<2><STEAM_1:0:147823631><> set all upgrades of Fᴀɴʏ<2><STEAM_1:0:147823631><> to the maximal level at no charge.

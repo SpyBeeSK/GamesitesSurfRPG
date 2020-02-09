@@ -1,0 +1,92 @@
+"Phrases"
+{
+	"No Access"
+	{
+		"cze"			"Nemáš přístup k tomuto příkazu"
+	}
+	
+	"Back"
+	{
+		"cze"			"zpět"
+	}
+	
+	"Next"
+	{
+		"cze"			"další"
+	}
+	
+	"Exit"
+	{
+		"cze"			"exit"
+	}
+	
+	"Previous"
+	{
+		"cze"			"zpět"
+	}
+	
+	"all players"
+	{
+		"cze"			"všichni hráči"
+	}
+	
+	"all humans"
+	{
+		"cze"			"všichni lidé"
+	}
+	
+	"all bots"
+	{
+		"cze"			"všichni boti"
+	}
+	
+	"all dead players"
+	{
+		"cze"			"všichni mrtví hráči"
+	}
+	
+	"all alive players"
+	{
+		"cze"			"všichni živí hráči"
+	}
+
+	"all spectators"
+	{
+		"cze"			"všichni ve spectu"
+	}
+
+	"Vote Count"
+	{
+		"#format"		"{1:i},{2:i},{3:i}"
+		"cze"			"Hlasy: {1}/{2}, {3} zbývají"
+	}
+
+	"Voted For"
+	{
+		"#format"		"{1:s},{2:s}"
+		"cze"			"{1} hlasoval pro {2}"	
+	}
+
+	"Changed Vote"
+	{
+		"#format"		"{1:s},{2:s}"
+		"cze"			"{1} změnil své hlasování na {2}"	
+	}
+
+	"No Vote"
+	{
+		"cze"			"Nehlasovat"
+	}
+	
+	"Name Reserved"
+	{
+		"cze"			"Tvé jméno je rezervováno SourceModem; použij své heslo pro použití."
+	}
+	
+	/* This is a special "pass-thru" translation */
+	"_s"
+	{
+		"#format"		"{1:s}"
+		"cze"			"{1}"
+	}
+}

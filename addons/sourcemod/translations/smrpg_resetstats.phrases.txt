@@ -1,0 +1,97 @@
+"Phrases"
+{
+  "Admin command resetdatabase"
+  {
+    "cze"  "Databáze byla vymazána. Všichni hráči jsou opět na úrovni 1."
+  }
+  "Stats reset when levels sum up to"
+  {
+    // 1: Maximum sum of levels of top 10 players. 
+    // 2: Levels remaining until the maximum is reached.
+    "#format"  "{1:d},{2:d}"
+    "cze"  "Statistiky se vynulují, až bude součet úrovní 10 nejlepších hráčů {1}. Stále ještě {2} zbývá." 
+  }
+  "Warning, your stats were reset on"
+  {
+    // 1: Day of last reset of the player.
+    // 2: Month of the last reset of the player.
+    // 3: Year of the last reset of the player.
+    "#format"  "{1:02d},{2:02d},{3:d}"
+    "cze"  "{RB}UPOZORNĚNÍ!{G} Vaše statistiky byly {RB} resetovány na {N}{1}-{2}-{3}{G}."
+  }
+  "The whole server got reset, so you're not the only one."
+  {
+    "cze"  "Celý server byl resetován, neboj, nejsi jediný."
+  }
+  "This is done automatically regularly."
+  {
+    "cze"  "Reset se provádí pravidelně. Napište {N}nextreset{G} pro zjištění dalšího resetu."
+  }
+  "Display global reset reason"
+  {
+    // 1: The reason for the last global reset
+    "#format" "{1:s}"
+    "cze"  "Důvod: {N}{1}"
+  }
+  "Last server reset"
+  {
+    // 1: Day of last reset of the server.
+    // 2: Month of the last reset of the server.
+    // 3: Year of the last reset of the server.
+    "#format"  "{1:02d},{2:02d},{3:d}"
+    "cze"  "Statistiky serveru byly resetovány {N}{1}-{2}-{3}{G}."
+  }
+  "Last player reset"
+  {
+    // 1: Day of last reset of the player.
+    // 2: Month of the last reset of the player.
+    // 3: Year of the last reset of the player.
+    "#format"  "{1:02d},{2:02d},{3:d}"
+    "cze"  "Vaše statistiky byly {RB}resetovány na {N}{3}-{2}-{1}{G}."
+  }
+  "Timed reset today"
+  {
+    "cze"  "Statistiky budou dnes resetovány."
+  }
+  "Timed reset in future"
+  {
+    // 1: "Days" or "Day" phrase from below. Days until reset in readable form.
+    // 2: "Months" or "Month" phrase from below. Months until reset in readable form.
+    // 3: "Years" or "Year" phrase from below. Years until reset in readable form.
+    // 4: Day of the next reset in the future.
+    // 5: Month of the next reset in the future.
+    // 6: Year of the next reset in the future.
+    "#format"  "{1:s},{2:s},{3:s},{4:02d},{5:02d},{6:d}"
+    "cze"  "Statistiky budou {RB}resetovány{G} za {1}{2}{3} ({4}-{5}-{6})."
+  }
+  "One Day"
+  {
+    "cze"  "1 den"
+  }
+  "Days"
+  {
+    // 1: Days until stats are reset.
+    "#format"  "{1:d}"
+    "cze"  "{1} dnů"
+  }
+  "One Month"
+  {
+    "cze"  "1 měsíc"
+  }
+  "Months"
+  {
+    // 1: Months until stats are reset.
+    "#format"  "{1:d}"
+    "cze"  "{1} měsíců"
+  }
+  "One Year"
+  {
+    "cze"  "1 rok"
+  }
+  "Years"
+  {
+    // 1: Years until stats are reset.
+    "#format"  "{1:d}"
+    "cze"  "{1} let"
+  }
+}

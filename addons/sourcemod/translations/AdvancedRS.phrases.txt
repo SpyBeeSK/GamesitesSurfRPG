@@ -1,0 +1,34 @@
+﻿"Phrases"
+{
+	"ars_onlyvip"
+	{
+		"cze"			"Tento příkaz je pouze pro {darkred}VIP hráče{default}!"
+	}
+
+	"ars_reseted"
+	{
+		"cze"			"Úspěšně sis {darkred}resetoval svoje statistiky{default}!"
+	}
+
+	"ars_youdeath"
+	{
+		"cze"			"Tento příkaz je pouze pro {darkred}živé hráče{default}!"
+	}
+
+	"ars_onlyadmin"
+	{
+		"cze"			"Tento příkaz je pouze pro {darkred}adminy{default}!"
+	}
+
+	"ars_setscoreA"
+	{
+		"#format"		"{1:N},{2:i},{3:i},{4:i},{5:i},{6:i}"
+		"cze"			"Nastavil jsi hráči {darkred}{1} {2}, {3}, {4}, {5}, {6}{default} (K,D,A,MVP,SCORE) skóre!"
+	}
+
+	"ars_setscoreP"
+	{
+		"#format"		"{1:N},{2:i},{3:i},{4:i},{5:i},{6:i}"
+		"cze"			"Admin {darkred}{1}{default} ti nastavil {darkred}{2}, {3}, {4}, {5}, {6}{default} (K,D,A,MVP,SCORE) skóré!"
+	}
+}

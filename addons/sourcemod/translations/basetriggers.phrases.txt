@@ -1,0 +1,116 @@
+"Phrases"
+{
+	"Timeleft"
+	{
+		"cze"		"Čas do konce mapy: "
+	}
+	
+	"Thetime"
+	{
+		"#format"		"{1:s}"	
+		"cze"		"Právě je {1}"
+	}
+	
+	"Friendly Fire On"
+	{
+		"cze"		"Střílení do spoluhráčů je dostupné."
+	}
+	
+	"Friendly Fire Off"
+	{
+		"cze"		"Střílení do spoluhráčů je nedostupné."
+	}
+	
+	"Current Map"
+	{
+		"#format"		"{1:s}"
+		"cze"		"Současná mapa je {1}."
+	}
+
+	"WinLimitAppend"
+	{
+		"cze"		"nebo změní mapu, až team vyhraje kolo"
+	}
+
+	"WinLimit"
+	{
+		"cze"		"Mapa se změní, až team vyhraje kolo"
+	}
+
+	"MaxRoundsAppend"
+	{
+		"cze"		"nebo se změní po dalším kole"
+	}
+
+	"MaxRounds"
+	{
+		"cze"		"Mapa se změní po dalším kole"
+	}
+
+	"FragLimitAppend"
+	{
+		"cze"		"nebo se změní, až si hráč připíše kill"
+	}
+
+	"FragLimit"
+	{
+		"cze"		"Mapa se změní, až si hráč připíše kill"
+	}
+
+	"WinLimitAppendPlural"
+	{
+		"#format"		"{1:i}"
+		"cze"		"nebo změní mapu, až team vyhraje {1} kol"
+	}
+
+	"WinLimitPlural"
+	{
+		"#format"		"{1:i}"
+		"cze"		"Mapa se změní, až team vyhraje {1} kol"
+	}
+
+	"MaxRoundsAppendPlural"
+	{
+		"#format"		"{1:i}"
+		"cze"		"nebo se změní po {1} dalších kolech"
+	}
+
+	"MaxRoundsPlural"
+	{
+		"#format"		"{1:i}"
+		"cze"		"Mapa se změní po {1} dalších kolech"
+	}
+
+	"FragLimitAppendPlural"
+	{
+		"#format"		"{1:i}"
+		"cze"		"nebo se změní, až hráč dosáhne {1} killů"
+	}
+
+	"FragLimitPlural"
+	{
+		"#format"		"{1:i}"
+		"cze"		"Mapa se změní, až hráč dosáhne {1} killů"
+	}
+
+	"LastRound"
+	{
+		"cze"		"Tohle je poslední kolo mapy!"
+	}
+
+	"NoTimelimit"
+	{
+		"cze"		"Pro mapu není žádný časový limit"
+	}
+
+	"Next Map"
+	{
+		"#format"		"{1:s}"
+		"cze"		"Další mapou bude: {1}"
+	}
+
+	"Pending Vote"
+	{
+		"cze"		"Čeká na hlasování"
+	}
+}

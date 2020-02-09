@@ -1,0 +1,155 @@
+"Phrases"
+{
+	"headshot"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Headshot"
+	}
+	"headshot 1"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Headshot"
+	}
+	"headshot 3"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Hattrick"
+	}
+	"headshot 5"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Head Hunter"
+	}
+	"killsound 4"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is Dominating"
+	}
+	"killsound 6"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is on Rampage"
+	}
+	"killsound 8"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is on a Killing Spree"
+	}
+	"killsound 10"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} just got a Monster Kill"
+	}
+	"killsound 14"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is Unstoppable"
+	}
+	"killsound 16"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Ultrakill"
+	}
+	"killsound 18"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is Godlike"
+	}
+	"killsound 20"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is Wicked Sick"
+	}
+	"killsound 22"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is Impressive"
+	}
+	"killsound 24"
+	{
+		"#format"	"{1:s}"
+		"en"		"Ludicrous Kill by {1}"
+	}
+	"killsound 26"
+	{
+		"#format"	"{1:s}"
+		"en"		"HOLY MOLY, {1} is a bad ass"
+	}
+	"combo 2"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} just pulled off a Double Kill"
+	}
+	"combo 3"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} just pulled off a Triple Kill"
+	}
+	"combo 4"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} just pulled off a Quadruple Combo"
+	}
+	"combo 5"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is a Rambo"
+	} 
+	"first blood"
+	{
+		"#format"	"{1:s}"
+		"en"		"First Blood"
+	}	
+	"grenade"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} detonated {2} with a grenade"
+	}
+	"selfkill"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} humiliated himself"
+	}
+	"round play"
+	{
+		"cze"		"Začíná kolo"
+	}
+	"knife"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{2} was embarrassed with knife-kill by {1}"
+	}
+	"teamkill"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} just victimized his teammate {2}"
+	}
+	"announce message"
+	{
+		"cze"		"Napiš /quake pro nastavení zvuků oznámení"
+	}
+	"quake menu"
+	{
+		"en"		"Quake Menu"
+	}
+	"enable text"
+	{
+		"cze"		"Povolit zobrazování textu"
+	}
+	"disable text"
+	{
+		"cze"		"Zakázat zobrazování textu"
+	}
+	"no quake sounds"
+	{
+		"cze"		"Žádné zvuky Quake"
+	}
+	"standard"
+	{
+		"cze"		"Standardní zvuky"
+	}
+	"female"
+	{
+		"cze"		"Ženské zvuky"
+	}
+}

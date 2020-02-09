@@ -1,0 +1,205 @@
+L 02/09/2020 - 06:26:52: SourceMod error session started
+L 02/09/2020 - 06:26:52: Info (map "surf_dust2_2015_csgo") (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/errors_20200209.log")
+L 02/09/2020 - 06:26:52: [SM] Unable to load extension "dhooks.ext": /mnt/hlserver_extension1/27620/csgo/addons/sourcemod/extensions/dhooks.ext.so: cannot open shared object file: No such file or directory
+L 02/09/2020 - 06:26:52: [SM] Failed to load plugin "upgrades/smrpg_upgrade_shrinking.smx": CS:GO models don't support scaling properly :(.
+L 02/09/2020 - 06:26:52: [SM] Unable to load plugin "upgrades/smrpg_upgrade_speed.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 02/09/2020 - 06:26:52: [SM] Fatal error encountered parsing translation file "smrpg_cstrike.phrases.txt"
+L 02/09/2020 - 06:26:52: [SM] Error (line 50, column 2): Section declared without header
+L 02/09/2020 - 06:26:52: [SM] Exception reported: invalid handle 0 (error: 4)
+L 02/09/2020 - 06:26:52: [SM] Blaming: SourceSleuth.smx
+L 02/09/2020 - 06:26:52: [SM] Call stack trace:
+L 02/09/2020 - 06:26:52: [SM]   [0] IsEndOfFile
+L 02/09/2020 - 06:26:52: [SM]   [1] Line 265, SourceSleuth.sp::LoadWhiteList
+L 02/09/2020 - 06:26:52: [SM]   [2] Line 86, SourceSleuth.sp::OnPluginStart
+L 02/09/2020 - 06:26:52: [SM] Unable to load plugin "SourceSleuth.smx": Error detected in plugin startup (see error logs)
+L 02/09/2020 - 06:26:52: [SM] Unable to load plugin "vip.smx": Could not find required plugin "ccc"
+L 02/09/2020 - 06:26:52: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 02/09/2020 - 06:26:52: [SM] Unable to load plugin "nominations.smx": Could not find required plugin "mapchooser"
+L 02/09/2020 - 06:26:52: [SM] Exception reported: Database failure: Could not find Database conf "sourcebans"
+L 02/09/2020 - 06:26:52: [SM] Blaming: sourcebans.smx
+L 02/09/2020 - 06:26:52: [SM] Call stack trace:
+L 02/09/2020 - 06:26:52: [SM]   [0] SetFailState
+L 02/09/2020 - 06:26:52: [SM]   [1] Line 209, sourcebans.sp::OnPluginStart
+L 02/09/2020 - 06:26:52: [SM] Unable to load plugin "sourcebans.smx": Error detected in plugin startup (see error logs)
+L 02/09/2020 - 06:26:52: [SM] Exception reported: Database failure: could not find database conf  sourcebans
+L 02/09/2020 - 06:26:52: [SM] Blaming: sourcecomms.smx
+L 02/09/2020 - 06:26:52: [SM] Call stack trace:
+L 02/09/2020 - 06:26:52: [SM]   [0] SetFailState
+L 02/09/2020 - 06:26:52: [SM]   [1] Line 221, sourcecomms.sp::OnPluginStart
+L 02/09/2020 - 06:26:52: [SM] Unable to load plugin "sourcecomms.smx": Error detected in plugin startup (see error logs)
+L 02/09/2020 - 06:26:52: [sb_admcfg.smx] Error(s) Detected Parsing addons/sourcemod/configs/sourcebans/sb_admin_groups.cfg
+L 02/09/2020 - 06:26:52: [sb_admcfg.smx]  (line 0) Stream failed to open
+L 02/09/2020 - 06:26:52: [sb_admcfg.smx] Error(s) Detected Parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 02/09/2020 - 06:26:52: [sb_admcfg.smx]  (line 0) Stream failed to open
+L 02/09/2020 - 06:26:53: [SM] Exception reported: FATAL *** ERROR *** can not find addons/sourcemod/configs/sourcebans/sourcebans.cfg
+L 02/09/2020 - 06:26:53: [SM] Blaming: sbchecker.smx
+L 02/09/2020 - 06:26:53: [SM] Call stack trace:
+L 02/09/2020 - 06:26:53: [SM]   [0] SetFailState
+L 02/09/2020 - 06:26:53: [SM]   [1] Line 337, sbchecker.sp::ReadConfig
+L 02/09/2020 - 06:26:53: [SM]   [2] Line 64, sbchecker.sp::OnMapStart
+L 02/09/2020 - 10:57:04: Error log file session closed.
+L 02/09/2020 - 10:57:04: SourceMod error session started
+L 02/09/2020 - 10:57:04: Info (map "surf_dust2_2015_csgo") (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/errors_20200209.log")
+L 02/09/2020 - 10:57:04: [SM] Fatal error encountered parsing translation file "smrpg_cstrike.phrases.txt"
+L 02/09/2020 - 10:57:04: [SM] Error (line 50, column 2): Section declared without header
+L 02/09/2020 - 10:57:04: [sb_admcfg.smx] Error(s) Detected Parsing addons/sourcemod/configs/sourcebans/sb_admin_groups.cfg
+L 02/09/2020 - 10:57:04: [sb_admcfg.smx]  (line 0) Stream failed to open
+L 02/09/2020 - 10:57:04: [sb_admcfg.smx] Error(s) Detected Parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 02/09/2020 - 10:57:04: [sb_admcfg.smx]  (line 0) Stream failed to open
+L 02/09/2020 - 10:57:05: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 02/09/2020 - 10:57:05: [SM] Blaming: extendedspeedmeter.smx
+L 02/09/2020 - 10:57:05: [SM] Call stack trace:
+L 02/09/2020 - 10:57:05: [SM]   [0] SQL_LockDatabase
+L 02/09/2020 - 10:57:05: [SM]   [1] Line 3755, C:\Users\user\Desktop\scripting\extendedspeedmeter.sp::GetMapRecords
+L 02/09/2020 - 10:57:05: [SM]   [2] Line 474, C:\Users\user\Desktop\scripting\extendedspeedmeter.sp::OnMapStart
+L 02/09/2020 - 10:57:05: [SM] Exception reported: FATAL *** ERROR *** can not find addons/sourcemod/configs/sourcebans/sourcebans.cfg
+L 02/09/2020 - 10:57:05: [SM] Blaming: sbchecker.smx
+L 02/09/2020 - 10:57:05: [SM] Call stack trace:
+L 02/09/2020 - 10:57:05: [SM]   [0] SetFailState
+L 02/09/2020 - 10:57:05: [SM]   [1] Line 337, sbchecker.sp::ReadConfig
+L 02/09/2020 - 10:57:05: [SM]   [2] Line 64, sbchecker.sp::OnMapStart
+L 02/09/2020 - 10:57:25: [extendedspeedmeter.smx] Extended Speed meter: Connection to SQL database has failed: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 02/09/2020 - 10:57:25: [extendedspeedmeter.smx] Extended Speed meter: Connection to SQL database has failed: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 02/09/2020 - 10:57:25: [extendedspeedmeter.smx] Extended Speed meter: Connection to SQL database has failed: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 02/09/2020 - 10:57:25: [extendedspeedmeter.smx] Extended Speed meter: Connection to SQL database has failed: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 02/09/2020 - 10:57:25: [extendedspeedmeter.smx] Extended Speed meter: Connection to SQL database has failed: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 02/09/2020 - 10:57:25: [extendedspeedmeter.smx] Extended Speed meter: Plugin stopped, reconnect counter reached max
+L 02/09/2020 - 12:01:38: SourceMod error session started
+L 02/09/2020 - 12:01:38: Info (map "surf_dust2_2015_csgo") (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/errors_20200209.log")
+L 02/09/2020 - 12:01:38: [SM] Unable to load extension "dhooks.ext": /mnt/hlserver_extension1/27620/csgo/addons/sourcemod/extensions/dhooks.ext.so: cannot open shared object file: No such file or directory
+L 02/09/2020 - 12:01:38: [SM] Failed to load plugin "upgrades/smrpg_upgrade_shrinking.smx": CS:GO models don't support scaling properly :(.
+L 02/09/2020 - 12:01:38: [SM] Unable to load plugin "upgrades/smrpg_upgrade_speed.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 02/09/2020 - 12:01:38: [SM] Fatal error encountered parsing translation file "smrpg_cstrike.phrases.txt"
+L 02/09/2020 - 12:01:38: [SM] Error (line 50, column 2): Section declared without header
+L 02/09/2020 - 12:01:38: [SM] Exception reported: invalid handle 0 (error: 4)
+L 02/09/2020 - 12:01:38: [SM] Blaming: SourceSleuth.smx
+L 02/09/2020 - 12:01:38: [SM] Call stack trace:
+L 02/09/2020 - 12:01:38: [SM]   [0] IsEndOfFile
+L 02/09/2020 - 12:01:38: [SM]   [1] Line 265, SourceSleuth.sp::LoadWhiteList
+L 02/09/2020 - 12:01:38: [SM]   [2] Line 86, SourceSleuth.sp::OnPluginStart
+L 02/09/2020 - 12:01:38: [SM] Unable to load plugin "SourceSleuth.smx": Error detected in plugin startup (see error logs)
+L 02/09/2020 - 12:01:38: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 02/09/2020 - 12:01:38: [SM] Unable to load plugin "nominations.smx": Could not find required plugin "mapchooser"
+L 02/09/2020 - 12:01:38: [SM] Exception reported: Database failure: Could not find Database conf "sourcebans"
+L 02/09/2020 - 12:01:38: [SM] Blaming: sourcebans.smx
+L 02/09/2020 - 12:01:38: [SM] Call stack trace:
+L 02/09/2020 - 12:01:38: [SM]   [0] SetFailState
+L 02/09/2020 - 12:01:38: [SM]   [1] Line 209, sourcebans.sp::OnPluginStart
+L 02/09/2020 - 12:01:38: [SM] Unable to load plugin "sourcebans.smx": Error detected in plugin startup (see error logs)
+L 02/09/2020 - 12:01:38: [SM] Exception reported: Database failure: could not find database conf  sourcebans
+L 02/09/2020 - 12:01:38: [SM] Blaming: sourcecomms.smx
+L 02/09/2020 - 12:01:38: [SM] Call stack trace:
+L 02/09/2020 - 12:01:38: [SM]   [0] SetFailState
+L 02/09/2020 - 12:01:38: [SM]   [1] Line 221, sourcecomms.sp::OnPluginStart
+L 02/09/2020 - 12:01:38: [SM] Unable to load plugin "sourcecomms.smx": Error detected in plugin startup (see error logs)
+L 02/09/2020 - 12:01:38: [sb_admcfg.smx] Error(s) Detected Parsing addons/sourcemod/configs/sourcebans/sb_admin_groups.cfg
+L 02/09/2020 - 12:01:38: [sb_admcfg.smx]  (line 0) Stream failed to open
+L 02/09/2020 - 12:01:38: [sb_admcfg.smx] Error(s) Detected Parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 02/09/2020 - 12:01:38: [sb_admcfg.smx]  (line 0) Stream failed to open
+L 02/09/2020 - 12:01:39: [SM] Exception reported: FATAL *** ERROR *** can not find addons/sourcemod/configs/sourcebans/sourcebans.cfg
+L 02/09/2020 - 12:01:39: [SM] Blaming: sbchecker.smx
+L 02/09/2020 - 12:01:39: [SM] Call stack trace:
+L 02/09/2020 - 12:01:39: [SM]   [0] SetFailState
+L 02/09/2020 - 12:01:39: [SM]   [1] Line 337, sbchecker.sp::ReadConfig
+L 02/09/2020 - 12:01:39: [SM]   [2] Line 64, sbchecker.sp::OnMapStart
+L 02/09/2020 - 12:24:13: SourceMod error session started
+L 02/09/2020 - 12:24:13: Info (map "surf_dust2_2015_csgo") (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/errors_20200209.log")
+L 02/09/2020 - 12:24:13: [SM] Unable to load extension "dhooks.ext": /mnt/hlserver_extension1/27620/csgo/addons/sourcemod/extensions/dhooks.ext.so: cannot open shared object file: No such file or directory
+L 02/09/2020 - 12:24:13: [SM] Failed to load plugin "upgrades/smrpg_upgrade_shrinking.smx": CS:GO models don't support scaling properly :(.
+L 02/09/2020 - 12:24:13: [SM] Unable to load plugin "upgrades/smrpg_upgrade_speed.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 02/09/2020 - 12:24:13: [SM] Fatal error encountered parsing translation file "smrpg_cstrike.phrases.txt"
+L 02/09/2020 - 12:24:13: [SM] Error (line 50, column 2): Section declared without header
+L 02/09/2020 - 12:24:13: [SM] Exception reported: invalid handle 0 (error: 4)
+L 02/09/2020 - 12:24:13: [SM] Blaming: SourceSleuth.smx
+L 02/09/2020 - 12:24:13: [SM] Call stack trace:
+L 02/09/2020 - 12:24:13: [SM]   [0] IsEndOfFile
+L 02/09/2020 - 12:24:13: [SM]   [1] Line 265, SourceSleuth.sp::LoadWhiteList
+L 02/09/2020 - 12:24:13: [SM]   [2] Line 86, SourceSleuth.sp::OnPluginStart
+L 02/09/2020 - 12:24:13: [SM] Unable to load plugin "SourceSleuth.smx": Error detected in plugin startup (see error logs)
+L 02/09/2020 - 12:24:13: [SM] Unable to load plugin "rockthevote.smx": Could not find required plugin "mapchooser"
+L 02/09/2020 - 12:24:13: [SM] Unable to load plugin "nominations.smx": Could not find required plugin "mapchooser"
+L 02/09/2020 - 12:24:13: [SM] Exception reported: Database failure: Could not find Database conf "sourcebans"
+L 02/09/2020 - 12:24:13: [SM] Blaming: sourcebans.smx
+L 02/09/2020 - 12:24:13: [SM] Call stack trace:
+L 02/09/2020 - 12:24:13: [SM]   [0] SetFailState
+L 02/09/2020 - 12:24:13: [SM]   [1] Line 209, sourcebans.sp::OnPluginStart
+L 02/09/2020 - 12:24:13: [SM] Unable to load plugin "sourcebans.smx": Error detected in plugin startup (see error logs)
+L 02/09/2020 - 12:24:13: [SM] Exception reported: Database failure: could not find database conf  sourcebans
+L 02/09/2020 - 12:24:13: [SM] Blaming: sourcecomms.smx
+L 02/09/2020 - 12:24:13: [SM] Call stack trace:
+L 02/09/2020 - 12:24:13: [SM]   [0] SetFailState
+L 02/09/2020 - 12:24:13: [SM]   [1] Line 221, sourcecomms.sp::OnPluginStart
+L 02/09/2020 - 12:24:13: [SM] Unable to load plugin "sourcecomms.smx": Error detected in plugin startup (see error logs)
+L 02/09/2020 - 12:24:13: [sb_admcfg.smx] Error(s) Detected Parsing addons/sourcemod/configs/sourcebans/sb_admin_groups.cfg
+L 02/09/2020 - 12:24:13: [sb_admcfg.smx]  (line 0) Stream failed to open
+L 02/09/2020 - 12:24:13: [sb_admcfg.smx] Error(s) Detected Parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 02/09/2020 - 12:24:13: [sb_admcfg.smx]  (line 0) Stream failed to open
+L 02/09/2020 - 12:24:14: [SM] Exception reported: FATAL *** ERROR *** can not find addons/sourcemod/configs/sourcebans/sourcebans.cfg
+L 02/09/2020 - 12:24:14: [SM] Blaming: sbchecker.smx
+L 02/09/2020 - 12:24:14: [SM] Call stack trace:
+L 02/09/2020 - 12:24:14: [SM]   [0] SetFailState
+L 02/09/2020 - 12:24:14: [SM]   [1] Line 337, sbchecker.sp::ReadConfig
+L 02/09/2020 - 12:24:14: [SM]   [2] Line 64, sbchecker.sp::OnMapStart
+L 02/09/2020 - 12:26:17: Error log file session closed.
+L 02/09/2020 - 12:26:17: SourceMod error session started
+L 02/09/2020 - 12:26:17: Info (map "surf_dust2_2015_csgo") (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/errors_20200209.log")
+L 02/09/2020 - 12:26:17: [SM] Fatal error encountered parsing translation file "smrpg_cstrike.phrases.txt"
+L 02/09/2020 - 12:26:17: [SM] Error (line 50, column 2): Section declared without header
+L 02/09/2020 - 12:26:17: [sb_admcfg.smx] Error(s) Detected Parsing addons/sourcemod/configs/sourcebans/sb_admin_groups.cfg
+L 02/09/2020 - 12:26:17: [sb_admcfg.smx]  (line 0) Stream failed to open
+L 02/09/2020 - 12:26:17: [sb_admcfg.smx] Error(s) Detected Parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 02/09/2020 - 12:26:17: [sb_admcfg.smx]  (line 0) Stream failed to open
+L 02/09/2020 - 12:26:18: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 02/09/2020 - 12:26:18: [SM] Blaming: extendedspeedmeter.smx
+L 02/09/2020 - 12:26:18: [SM] Call stack trace:
+L 02/09/2020 - 12:26:18: [SM]   [0] SQL_LockDatabase
+L 02/09/2020 - 12:26:18: [SM]   [1] Line 3755, C:\Users\user\Desktop\scripting\extendedspeedmeter.sp::GetMapRecords
+L 02/09/2020 - 12:26:18: [SM]   [2] Line 474, C:\Users\user\Desktop\scripting\extendedspeedmeter.sp::OnMapStart
+L 02/09/2020 - 12:26:18: [SM] Exception reported: FATAL *** ERROR *** can not find addons/sourcemod/configs/sourcebans/sourcebans.cfg
+L 02/09/2020 - 12:26:18: [SM] Blaming: sbchecker.smx
+L 02/09/2020 - 12:26:18: [SM] Call stack trace:
+L 02/09/2020 - 12:26:18: [SM]   [0] SetFailState
+L 02/09/2020 - 12:26:18: [SM]   [1] Line 337, sbchecker.sp::ReadConfig
+L 02/09/2020 - 12:26:18: [SM]   [2] Line 64, sbchecker.sp::OnMapStart
+L 02/09/2020 - 12:26:18: [extendedspeedmeter.smx] Extended Speed meter: Connection to SQL database has failed: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 02/09/2020 - 12:26:18: [extendedspeedmeter.smx] Extended Speed meter: Connection to SQL database has failed: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 02/09/2020 - 12:26:19: [extendedspeedmeter.smx] Extended Speed meter: Connection to SQL database has failed: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 02/09/2020 - 12:26:19: [extendedspeedmeter.smx] Extended Speed meter: Connection to SQL database has failed: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 02/09/2020 - 12:26:19: [extendedspeedmeter.smx] Extended Speed meter: Connection to SQL database has failed: [2002]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 02/09/2020 - 12:26:19: [extendedspeedmeter.smx] Extended Speed meter: Plugin stopped, reconnect counter reached max
+L 02/09/2020 - 12:26:46: [RoundSound.smx] No team has win the round.
+L 02/09/2020 - 12:27:22: [SM] Exception reported: Language phrase "Gamesites Commands" not found (arg 6)
+L 02/09/2020 - 12:27:22: [SM] Blaming: adminmenu.smx
+L 02/09/2020 - 12:27:22: [SM] Call stack trace:
+L 02/09/2020 - 12:27:22: [SM]   [0] Format
+L 02/09/2020 - 12:27:22: [SM]   [1] Line 166, C:\Users\user\Desktop\scripting\adminmenu.sp::DefaultCategoryHandler
+L 02/09/2020 - 12:27:22: [SM]   [3] TopMenu.Display
+L 02/09/2020 - 12:27:22: [SM]   [4] Line 205, C:\Users\user\Desktop\scripting\adminmenu.sp::Command_DisplayMenu
+L 02/09/2020 - 12:27:32: [RoundSound.smx] No team has win the round.
+L 02/09/2020 - 12:30:30: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 02/09/2020 - 12:30:30: [SM] Blaming: extendedspeedmeter.smx
+L 02/09/2020 - 12:30:30: [SM] Call stack trace:
+L 02/09/2020 - 12:30:30: [SM]   [0] SQL_LockDatabase
+L 02/09/2020 - 12:30:30: [SM]   [1] Line 4014, C:\Users\user\Desktop\scripting\extendedspeedmeter.sp::SaveMapRecords
+L 02/09/2020 - 12:30:30: [SM]   [2] Line 489, C:\Users\user\Desktop\scripting\extendedspeedmeter.sp::OnMapEnd
+L 02/09/2020 - 12:30:31: Error log file session closed.
+L 02/09/2020 - 12:30:31: SourceMod error session started
+L 02/09/2020 - 12:30:31: Info (map "surf_dust2_2015_csgo") (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/errors_20200209.log")
+L 02/09/2020 - 12:30:31: [SM] Fatal error encountered parsing translation file "smrpg_cstrike.phrases.txt"
+L 02/09/2020 - 12:30:31: [SM] Error (line 50, column 2): Section declared without header
+L 02/09/2020 - 12:30:31: [sb_admcfg.smx] Error(s) Detected Parsing addons/sourcemod/configs/sourcebans/sb_admin_groups.cfg
+L 02/09/2020 - 12:30:31: [sb_admcfg.smx]  (line 0) Stream failed to open
+L 02/09/2020 - 12:30:31: [sb_admcfg.smx] Error(s) Detected Parsing addons/sourcemod/configs/sourcebans/sb_admins.cfg
+L 02/09/2020 - 12:30:31: [sb_admcfg.smx]  (line 0) Stream failed to open
+L 02/09/2020 - 12:30:32: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 02/09/2020 - 12:30:32: [SM] Blaming: extendedspeedmeter.smx
+L 02/09/2020 - 12:30:32: [SM] Call stack trace:
+L 02/09/2020 - 12:30:32: [SM]   [0] SQL_LockDatabase
+L 02/09/2020 - 12:30:32: [SM]   [1] Line 3755, C:\Users\user\Desktop\scripting\extendedspeedmeter.sp::GetMapRecords
+L 02/09/2020 - 12:30:32: [SM]   [2] Line 474, C:\Users\user\Desktop\scripting\extendedspeedmeter.sp::OnMapStart
+L 02/09/2020 - 12:30:32: [SM] Exception reported: FATAL *** ERROR *** can not find addons/sourcemod/configs/sourcebans/sourcebans.cfg
+L 02/09/2020 - 12:30:32: [SM] Blaming: sbchecker.smx
+L 02/09/2020 - 12:30:32: [SM] Call stack trace:
+L 02/09/2020 - 12:30:32: [SM]   [0] SetFailState
+L 02/09/2020 - 12:30:32: [SM]   [1] Line 337, sbchecker.sp::ReadConfig
+L 02/09/2020 - 12:30:32: [SM]   [2] Line 64, sbchecker.sp::OnMapStart

@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Cookie List"
+	{
+		"cze"			"Seznam sourcemode cookies"
+	}
+	"Printing Cookie List"
+	{
+		"cze"			"Odesílání seznamu cookies do konzole"
+	}
+	"Cookie not Found"
+	{
+		"#format"		"{1:s}"
+		"cze"			"Nenalezena cookie \"{1}\""
+	}
+	"Cookie Value"
+	{
+		"#format"		"{1:s},{2:s}"
+		"cze"			"{1} hodnota je {2}"
+	}
+	"Protected Cookie"
+	{
+		"#format"		"{1:s}"
+		"cze"			"Nemůže změnit hodnotu chráněných cookies \"{1}\""
+	}
+	"Cookie Changed Value"
+	{
+		"#format"		"{1:s},{2:s}"
+		"cze"			"Změní hodnotu cookies \"{1}\" na \"{2}\""
+	}
+	"No Console"
+	{
+		"cze"			"Nemůže odeslat nastavení menu do konzole"
+	}
+	"Choose Option"
+	{
+		"cze"			"Zvolte možnost"
+	}
+	"Client Settings"
+	{
+		"cze"			"Uživatelské nastavení"
+	}	
+}

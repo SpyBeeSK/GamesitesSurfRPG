@@ -1,0 +1,326 @@
+L 01/31/2020 - 18:16:21: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 18:16:21: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.csgo.txt"
+L 01/31/2020 - 18:16:21: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 01/31/2020 - 18:16:21: -------- Mapchange to surf_ski_2_infir --------
+L 01/31/2020 - 18:18:24: Log file closed.
+L 01/31/2020 - 18:18:39: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 18:18:39: -------- Mapchange to surf_ski_2_infir --------
+L 01/31/2020 - 18:19:10: Log file closed.
+L 01/31/2020 - 18:19:42: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 18:19:42: -------- Mapchange to surf_ski_2_infir --------
+L 01/31/2020 - 18:23:38: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 18:23:38: -------- Mapchange to surf_ski_2_infir --------
+L 01/31/2020 - 18:27:35: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 18:27:35: -------- Mapchange to surf_ski_2_infir --------
+L 01/31/2020 - 18:51:10: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 18:51:10: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 18:52:29: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 18:52:29: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 18:52:58: -------- Mapchange to surf_ski_2_infir --------
+L 01/31/2020 - 18:52:59: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 18:54:13: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> permanently reset all stats of player SρyBҽҽ<2><STEAM_1:1:160125472><>.
+L 01/31/2020 - 18:55:05: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> set all upgrades of SρyBҽҽ<2><STEAM_1:1:160125472><> to the maximal level at no charge.
+L 01/31/2020 - 18:56:39: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1 to 11.
+L 01/31/2020 - 18:56:40: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 11 to 21.
+L 01/31/2020 - 18:56:40: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 21 to 31.
+L 01/31/2020 - 18:56:40: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 31 to 41.
+L 01/31/2020 - 18:56:41: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 41 to 51.
+L 01/31/2020 - 18:56:41: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 51 to 61.
+L 01/31/2020 - 18:56:41: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 61 to 71.
+L 01/31/2020 - 18:56:41: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 71 to 81.
+L 01/31/2020 - 18:56:41: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 81 to 91.
+L 01/31/2020 - 18:56:42: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 91 to 101.
+L 01/31/2020 - 18:56:42: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 101 to 111.
+L 01/31/2020 - 18:56:42: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 111 to 121.
+L 01/31/2020 - 18:56:42: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 121 to 131.
+L 01/31/2020 - 18:56:43: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 131 to 141.
+L 01/31/2020 - 18:56:43: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 141 to 151.
+L 01/31/2020 - 18:56:45: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 151 to 161.
+L 01/31/2020 - 18:56:45: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 161 to 171.
+L 01/31/2020 - 18:56:45: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 171 to 181.
+L 01/31/2020 - 18:56:47: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 181 to 191.
+L 01/31/2020 - 18:56:47: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 191 to 201.
+L 01/31/2020 - 18:56:48: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 201 to 211.
+L 01/31/2020 - 18:56:49: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 211 to 221.
+L 01/31/2020 - 18:56:49: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 221 to 231.
+L 01/31/2020 - 18:56:50: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 231 to 241.
+L 01/31/2020 - 18:56:50: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 241 to 251.
+L 01/31/2020 - 18:56:51: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 251 to 261.
+L 01/31/2020 - 18:56:51: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 261 to 271.
+L 01/31/2020 - 18:56:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 271 to 281.
+L 01/31/2020 - 18:56:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 281 to 291.
+L 01/31/2020 - 18:56:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 291 to 301.
+L 01/31/2020 - 18:56:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 301 to 311.
+L 01/31/2020 - 18:56:53: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 311 to 321.
+L 01/31/2020 - 18:56:53: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 321 to 331.
+L 01/31/2020 - 18:56:53: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 331 to 341.
+L 01/31/2020 - 18:56:53: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 341 to 351.
+L 01/31/2020 - 18:56:54: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 351 to 361.
+L 01/31/2020 - 18:56:54: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 361 to 371.
+L 01/31/2020 - 18:56:54: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 371 to 381.
+L 01/31/2020 - 18:56:55: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 381 to 391.
+L 01/31/2020 - 18:56:55: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 391 to 401.
+L 01/31/2020 - 18:56:55: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 401 to 411.
+L 01/31/2020 - 18:56:55: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 411 to 421.
+L 01/31/2020 - 18:56:55: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 421 to 431.
+L 01/31/2020 - 18:56:55: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 431 to 441.
+L 01/31/2020 - 18:56:56: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 441 to 451.
+L 01/31/2020 - 18:56:56: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 451 to 461.
+L 01/31/2020 - 18:56:56: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 461 to 471.
+L 01/31/2020 - 18:56:56: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 471 to 481.
+L 01/31/2020 - 18:56:56: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 481 to 491.
+L 01/31/2020 - 18:56:57: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 491 to 501.
+L 01/31/2020 - 18:56:57: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 501 to 511.
+L 01/31/2020 - 18:56:57: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 511 to 521.
+L 01/31/2020 - 18:56:57: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 521 to 531.
+L 01/31/2020 - 18:56:57: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 531 to 541.
+L 01/31/2020 - 18:56:57: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 541 to 551.
+L 01/31/2020 - 18:56:58: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 551 to 561.
+L 01/31/2020 - 18:56:58: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 561 to 571.
+L 01/31/2020 - 18:56:58: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 571 to 581.
+L 01/31/2020 - 18:56:58: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 581 to 591.
+L 01/31/2020 - 18:56:58: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 591 to 601.
+L 01/31/2020 - 18:56:59: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 601 to 611.
+L 01/31/2020 - 18:56:59: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 611 to 621.
+L 01/31/2020 - 18:56:59: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 621 to 631.
+L 01/31/2020 - 18:56:59: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 631 to 641.
+L 01/31/2020 - 18:56:59: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 641 to 651.
+L 01/31/2020 - 18:57:00: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 651 to 661.
+L 01/31/2020 - 18:57:00: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 661 to 671.
+L 01/31/2020 - 18:57:00: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 671 to 681.
+L 01/31/2020 - 18:57:00: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 681 to 691.
+L 01/31/2020 - 18:57:00: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 691 to 701.
+L 01/31/2020 - 18:57:01: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 701 to 711.
+L 01/31/2020 - 18:57:01: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 711 to 721.
+L 01/31/2020 - 18:57:01: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 721 to 731.
+L 01/31/2020 - 18:57:01: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 731 to 741.
+L 01/31/2020 - 18:57:01: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 741 to 751.
+L 01/31/2020 - 18:57:02: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 751 to 761.
+L 01/31/2020 - 18:57:02: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 761 to 771.
+L 01/31/2020 - 18:57:02: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 771 to 781.
+L 01/31/2020 - 18:57:02: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 781 to 791.
+L 01/31/2020 - 18:57:02: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 791 to 801.
+L 01/31/2020 - 18:57:03: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 801 to 811.
+L 01/31/2020 - 18:57:03: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 811 to 821.
+L 01/31/2020 - 18:57:03: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 821 to 831.
+L 01/31/2020 - 18:57:03: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 831 to 841.
+L 01/31/2020 - 18:57:03: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 841 to 851.
+L 01/31/2020 - 18:57:04: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 851 to 861.
+L 01/31/2020 - 18:57:04: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 861 to 871.
+L 01/31/2020 - 18:57:04: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 871 to 881.
+L 01/31/2020 - 18:57:04: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 881 to 891.
+L 01/31/2020 - 18:57:05: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 891 to 901.
+L 01/31/2020 - 18:57:05: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 901 to 911.
+L 01/31/2020 - 18:57:05: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 911 to 921.
+L 01/31/2020 - 18:57:05: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 921 to 931.
+L 01/31/2020 - 18:57:05: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 931 to 941.
+L 01/31/2020 - 18:57:06: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 941 to 951.
+L 01/31/2020 - 18:57:06: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 951 to 961.
+L 01/31/2020 - 18:57:06: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 961 to 971.
+L 01/31/2020 - 18:57:06: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 971 to 981.
+L 01/31/2020 - 18:57:06: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 981 to 991.
+L 01/31/2020 - 18:57:07: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 991 to 1001.
+L 01/31/2020 - 18:57:07: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1001 to 1011.
+L 01/31/2020 - 18:57:07: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1011 to 1021.
+L 01/31/2020 - 18:57:07: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1021 to 1031.
+L 01/31/2020 - 18:57:07: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1031 to 1041.
+L 01/31/2020 - 18:57:08: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1041 to 1051.
+L 01/31/2020 - 18:57:08: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1051 to 1061.
+L 01/31/2020 - 18:57:08: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1061 to 1071.
+L 01/31/2020 - 18:57:08: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1071 to 1081.
+L 01/31/2020 - 18:57:08: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1081 to 1091.
+L 01/31/2020 - 18:57:09: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1091 to 1101.
+L 01/31/2020 - 18:57:09: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1101 to 1111.
+L 01/31/2020 - 18:57:09: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1111 to 1121.
+L 01/31/2020 - 18:57:09: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1121 to 1131.
+L 01/31/2020 - 18:57:09: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1131 to 1141.
+L 01/31/2020 - 18:57:10: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1141 to 1151.
+L 01/31/2020 - 18:57:10: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1151 to 1161.
+L 01/31/2020 - 18:57:10: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1161 to 1171.
+L 01/31/2020 - 18:57:10: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1171 to 1181.
+L 01/31/2020 - 18:57:11: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1181 to 1191.
+L 01/31/2020 - 18:57:11: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1191 to 1201.
+L 01/31/2020 - 18:57:11: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1201 to 1211.
+L 01/31/2020 - 18:57:12: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1211 to 1221.
+L 01/31/2020 - 18:57:13: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1221 to 1231.
+L 01/31/2020 - 18:57:13: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1231 to 1241.
+L 01/31/2020 - 18:57:13: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1241 to 1251.
+L 01/31/2020 - 18:57:14: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1251 to 1261.
+L 01/31/2020 - 18:57:14: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1261 to 1271.
+L 01/31/2020 - 18:57:14: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1271 to 1281.
+L 01/31/2020 - 18:57:14: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1281 to 1291.
+L 01/31/2020 - 18:57:14: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1291 to 1301.
+L 01/31/2020 - 18:57:15: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1301 to 1311.
+L 01/31/2020 - 18:57:15: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1311 to 1321.
+L 01/31/2020 - 18:57:15: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1321 to 1331.
+L 01/31/2020 - 18:57:15: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1331 to 1341.
+L 01/31/2020 - 18:57:15: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1341 to 1351.
+L 01/31/2020 - 18:57:16: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1351 to 1361.
+L 01/31/2020 - 18:57:16: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1361 to 1371.
+L 01/31/2020 - 18:57:16: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1371 to 1381.
+L 01/31/2020 - 18:57:16: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1381 to 1391.
+L 01/31/2020 - 18:57:16: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1391 to 1401.
+L 01/31/2020 - 18:57:17: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1401 to 1411.
+L 01/31/2020 - 18:57:17: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1411 to 1421.
+L 01/31/2020 - 18:57:17: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1421 to 1431.
+L 01/31/2020 - 18:57:17: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1431 to 1441.
+L 01/31/2020 - 18:57:17: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1441 to 1451.
+L 01/31/2020 - 18:57:18: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1451 to 1461.
+L 01/31/2020 - 18:57:18: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1461 to 1471.
+L 01/31/2020 - 18:57:18: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1471 to 1481.
+L 01/31/2020 - 18:57:18: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1481 to 1491.
+L 01/31/2020 - 18:57:18: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1491 to 1501.
+L 01/31/2020 - 18:57:19: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1501 to 1511.
+L 01/31/2020 - 18:57:19: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1511 to 1521.
+L 01/31/2020 - 18:57:19: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1521 to 1531.
+L 01/31/2020 - 18:57:19: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1531 to 1541.
+L 01/31/2020 - 18:57:19: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1541 to 1551.
+L 01/31/2020 - 18:57:20: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1551 to 1561.
+L 01/31/2020 - 18:57:20: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1561 to 1571.
+L 01/31/2020 - 18:57:20: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1571 to 1581.
+L 01/31/2020 - 18:57:20: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1581 to 1591.
+L 01/31/2020 - 18:57:21: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1591 to 1601.
+L 01/31/2020 - 18:57:21: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1601 to 1611.
+L 01/31/2020 - 18:57:21: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1611 to 1621.
+L 01/31/2020 - 18:57:21: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1621 to 1631.
+L 01/31/2020 - 18:57:21: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1631 to 1641.
+L 01/31/2020 - 18:57:22: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1641 to 1651.
+L 01/31/2020 - 18:57:22: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1651 to 1661.
+L 01/31/2020 - 18:57:22: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1661 to 1671.
+L 01/31/2020 - 18:57:22: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1671 to 1681.
+L 01/31/2020 - 18:57:22: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1681 to 1691.
+L 01/31/2020 - 18:57:23: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1691 to 1701.
+L 01/31/2020 - 18:57:23: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1701 to 1711.
+L 01/31/2020 - 18:57:23: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1711 to 1721.
+L 01/31/2020 - 18:57:23: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1721 to 1731.
+L 01/31/2020 - 18:57:23: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1731 to 1741.
+L 01/31/2020 - 18:57:24: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1741 to 1751.
+L 01/31/2020 - 18:57:24: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1751 to 1761.
+L 01/31/2020 - 18:57:24: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1761 to 1771.
+L 01/31/2020 - 18:57:24: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1771 to 1781.
+L 01/31/2020 - 18:57:25: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1781 to 1791.
+L 01/31/2020 - 18:57:25: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1791 to 1801.
+L 01/31/2020 - 18:57:25: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1801 to 1811.
+L 01/31/2020 - 18:57:26: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1811 to 1821.
+L 01/31/2020 - 18:57:26: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1821 to 1831.
+L 01/31/2020 - 18:57:26: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed level of SρyBҽҽ<2><STEAM_1:1:160125472><> by 10 from 1831 to 1841.
+L 01/31/2020 - 18:57:29: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 1000/50000 Experience (previously Level 1841 with 0/50000 Experience)
+L 01/31/2020 - 18:57:30: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 2000/50000 Experience (previously Level 1841 with 1000/50000 Experience)
+L 01/31/2020 - 18:57:30: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 3000/50000 Experience (previously Level 1841 with 2000/50000 Experience)
+L 01/31/2020 - 18:57:30: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 4000/50000 Experience (previously Level 1841 with 3000/50000 Experience)
+L 01/31/2020 - 18:57:31: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 5000/50000 Experience (previously Level 1841 with 4000/50000 Experience)
+L 01/31/2020 - 18:57:31: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 6000/50000 Experience (previously Level 1841 with 5000/50000 Experience)
+L 01/31/2020 - 18:57:31: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 7000/50000 Experience (previously Level 1841 with 6000/50000 Experience)
+L 01/31/2020 - 18:57:31: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 8000/50000 Experience (previously Level 1841 with 7000/50000 Experience)
+L 01/31/2020 - 18:57:31: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 9000/50000 Experience (previously Level 1841 with 8000/50000 Experience)
+L 01/31/2020 - 18:57:32: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 10000/50000 Experience (previously Level 1841 with 9000/50000 Experience)
+L 01/31/2020 - 18:57:32: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 11000/50000 Experience (previously Level 1841 with 10000/50000 Experience)
+L 01/31/2020 - 18:57:32: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 12000/50000 Experience (previously Level 1841 with 11000/50000 Experience)
+L 01/31/2020 - 18:57:32: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 13000/50000 Experience (previously Level 1841 with 12000/50000 Experience)
+L 01/31/2020 - 18:57:33: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 14000/50000 Experience (previously Level 1841 with 13000/50000 Experience)
+L 01/31/2020 - 18:57:33: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 15000/50000 Experience (previously Level 1841 with 14000/50000 Experience)
+L 01/31/2020 - 18:57:33: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 16000/50000 Experience (previously Level 1841 with 15000/50000 Experience)
+L 01/31/2020 - 18:57:33: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 17000/50000 Experience (previously Level 1841 with 16000/50000 Experience)
+L 01/31/2020 - 18:57:34: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 18000/50000 Experience (previously Level 1841 with 17000/50000 Experience)
+L 01/31/2020 - 18:57:34: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 19000/50000 Experience (previously Level 1841 with 18000/50000 Experience)
+L 01/31/2020 - 18:57:34: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 20000/50000 Experience (previously Level 1841 with 19000/50000 Experience)
+L 01/31/2020 - 18:57:34: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 21000/50000 Experience (previously Level 1841 with 20000/50000 Experience)
+L 01/31/2020 - 18:57:35: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 22000/50000 Experience (previously Level 1841 with 21000/50000 Experience)
+L 01/31/2020 - 18:57:35: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 23000/50000 Experience (previously Level 1841 with 22000/50000 Experience)
+L 01/31/2020 - 18:57:35: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 24000/50000 Experience (previously Level 1841 with 23000/50000 Experience)
+L 01/31/2020 - 18:57:35: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 1841 and has 25000/50000 Experience (previously Level 1841 with 24000/50000 Experience)
+L 01/31/2020 - 18:57:49: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> permanently reset all stats of player SρyBҽҽ<2><STEAM_1:1:160125472><>.
+L 01/31/2020 - 19:07:07: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 19:07:07: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 19:08:59: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 19:08:59: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 19:10:01: Log file closed.
+L 01/31/2020 - 19:10:11: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 19:10:11: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 19:10:19: -------- Mapchange to surf_ski_2_infir --------
+L 01/31/2020 - 19:10:20: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 19:11:21: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> gave SρyBҽҽ<2><STEAM_1:1:160125472><> the maximal level of upgrade Health+ at no charge. Upgrade level changed from 0 to 10.
+L 01/31/2020 - 19:12:44: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to sell one level of upgrade Health+. Upgrade level changed from 10 to 9 and player got 75 credits..
+L 01/31/2020 - 19:12:45: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to sell one level of upgrade Health+. Upgrade level changed from 9 to 8 and player got 70 credits..
+L 01/31/2020 - 19:12:45: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to sell one level of upgrade Health+. Upgrade level changed from 8 to 7 and player got 60 credits..
+L 01/31/2020 - 19:12:45: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to sell one level of upgrade Health+. Upgrade level changed from 7 to 6 and player got 55 credits..
+L 01/31/2020 - 19:12:46: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to sell one level of upgrade Health+. Upgrade level changed from 6 to 5 and player got 45 credits..
+L 01/31/2020 - 19:12:48: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to sell one level of upgrade Health+. Upgrade level changed from 5 to 4 and player got 40 credits..
+L 01/31/2020 - 19:12:48: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to sell one level of upgrade Health+. Upgrade level changed from 4 to 3 and player got 30 credits..
+L 01/31/2020 - 19:12:48: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to sell one level of upgrade Health+. Upgrade level changed from 3 to 2 and player got 25 credits..
+L 01/31/2020 - 19:12:49: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to sell one level of upgrade Health+. Upgrade level changed from 2 to 1 and player got 15 credits..
+L 01/31/2020 - 19:12:49: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to sell one level of upgrade Health+. Upgrade level changed from 1 to 0 and player got 10 credits..
+L 01/31/2020 - 19:13:03: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to buy one level of upgrade Health+. Upgrade level changed from 0 to 1.
+L 01/31/2020 - 19:13:04: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to buy one level of upgrade Health+. Upgrade level changed from 1 to 2.
+L 01/31/2020 - 19:13:05: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to buy one level of upgrade Health+. Upgrade level changed from 2 to 3.
+L 01/31/2020 - 19:13:05: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to buy one level of upgrade Health+. Upgrade level changed from 3 to 4.
+L 01/31/2020 - 19:13:06: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to buy one level of upgrade Health+. Upgrade level changed from 4 to 5.
+L 01/31/2020 - 19:13:07: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to buy one level of upgrade Health+. Upgrade level changed from 5 to 6.
+L 01/31/2020 - 19:13:07: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to buy one level of upgrade Health+. Upgrade level changed from 6 to 7.
+L 01/31/2020 - 19:13:07: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> forced SρyBҽҽ<2><STEAM_1:1:160125472><> to buy one level of upgrade Health+. Upgrade level changed from 7 to 8.
+L 01/31/2020 - 19:13:29: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> permanently reset all stats of player SρyBҽҽ<2><STEAM_1:1:160125472><>.
+L 01/31/2020 - 19:13:42: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 4 and has 0/450 Experience (previously Level 1 with 0/250 Experience)
+L 01/31/2020 - 19:13:43: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 6 and has 50/550 Experience (previously Level 4 with 0/450 Experience)
+L 01/31/2020 - 19:13:44: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 7 and has 500/600 Experience (previously Level 6 with 50/550 Experience)
+L 01/31/2020 - 19:13:44: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 9 and has 250/700 Experience (previously Level 7 with 500/600 Experience)
+L 01/31/2020 - 19:13:45: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 10 and has 550/750 Experience (previously Level 9 with 250/700 Experience)
+L 01/31/2020 - 19:13:46: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 12 and has 0/850 Experience (previously Level 10 with 550/750 Experience)
+L 01/31/2020 - 19:13:46: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 13 and has 150/900 Experience (previously Level 12 with 0/850 Experience)
+L 01/31/2020 - 19:13:47: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 14 and has 250/950 Experience (previously Level 13 with 150/900 Experience)
+L 01/31/2020 - 19:13:47: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 15 and has 300/1000 Experience (previously Level 14 with 250/950 Experience)
+L 01/31/2020 - 19:13:47: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 16 and has 300/1050 Experience (previously Level 15 with 300/1000 Experience)
+L 01/31/2020 - 19:13:48: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 17 and has 250/1100 Experience (previously Level 16 with 300/1050 Experience)
+L 01/31/2020 - 19:13:48: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 18 and has 150/1150 Experience (previously Level 17 with 250/1100 Experience)
+L 01/31/2020 - 19:13:48: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 19 and has 0/1200 Experience (previously Level 18 with 150/1150 Experience)
+L 01/31/2020 - 19:13:49: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 19 and has 1000/1200 Experience (previously Level 19 with 0/1200 Experience)
+L 01/31/2020 - 19:13:49: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 20 and has 800/1250 Experience (previously Level 19 with 1000/1200 Experience)
+L 01/31/2020 - 19:13:49: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 21 and has 550/1300 Experience (previously Level 20 with 800/1250 Experience)
+L 01/31/2020 - 19:13:49: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by 1000. He is now Level 22 and has 250/1350 Experience (previously Level 21 with 550/1300 Experience)
+L 01/31/2020 - 19:13:51: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 250/1350 Experience)
+L 01/31/2020 - 19:13:51: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:13:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:13:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:13:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:13:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:13:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:13:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:13:53: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:13:53: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:13:54: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:13:54: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:13:54: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:13:54: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:14:04: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:14:05: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:14:05: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed experience of SρyBҽҽ<2><STEAM_1:1:160125472><> by -1000. He is now Level 22 and has 0/1350 Experience (previously Level 22 with 0/1350 Experience)
+L 01/31/2020 - 19:14:08: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> permanently reset all stats of player SρyBҽҽ<2><STEAM_1:1:160125472><>.
+L 01/31/2020 - 19:14:11: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<2><STEAM_1:1:160125472><> by 100 from 0 to 100.
+L 01/31/2020 - 19:14:12: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<2><STEAM_1:1:160125472><> by 100 from 100 to 200.
+L 01/31/2020 - 19:14:12: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<2><STEAM_1:1:160125472><> by 100 from 200 to 300.
+L 01/31/2020 - 19:14:12: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<2><STEAM_1:1:160125472><> by 100 from 300 to 400.
+L 01/31/2020 - 19:14:12: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<2><STEAM_1:1:160125472><> by 100 from 400 to 500.
+L 01/31/2020 - 19:14:13: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<2><STEAM_1:1:160125472><> by 100 from 500 to 600.
+L 01/31/2020 - 19:14:13: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<2><STEAM_1:1:160125472><> by 100 from 600 to 700.
+L 01/31/2020 - 19:14:13: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<2><STEAM_1:1:160125472><> by 100 from 700 to 800.
+L 01/31/2020 - 19:14:13: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<2><STEAM_1:1:160125472><> by 100 from 800 to 900.
+L 01/31/2020 - 19:14:14: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> changed credits of SρyBҽҽ<2><STEAM_1:1:160125472><> by 100 from 900 to 1000.
+L 01/31/2020 - 19:35:47: -------- Mapchange to surf_ski_2_infir --------
+L 01/31/2020 - 19:35:48: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 19:40:43: [smrpg.smx] SρyBҽҽ<3><STEAM_1:1:160125472><> permanently reset all stats of player SρyBҽҽ<3><STEAM_1:1:160125472><>.
+L 01/31/2020 - 19:40:50: [smrpg.smx] SρyBҽҽ<3><STEAM_1:1:160125472><> set all upgrades of SρyBҽҽ<3><STEAM_1:1:160125472><> to the maximal level at no charge.
+L 01/31/2020 - 19:41:36: [smrpg.smx] SρyBҽҽ<3><STEAM_1:1:160125472><> permanently reset all stats of player SρyBҽҽ<3><STEAM_1:1:160125472><>.
+L 01/31/2020 - 19:47:10: Log file closed.
+L 01/31/2020 - 19:47:21: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 19:47:21: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 20:10:59: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 20:10:59: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 20:11:03: -------- Mapchange to surf_ski_2_infir --------
+L 01/31/2020 - 20:11:05: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 20:13:16: Log file closed.
+L 01/31/2020 - 20:13:26: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 20:13:26: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 20:13:31: -------- Mapchange to surf_ski_2_infir --------
+L 01/31/2020 - 20:13:32: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 01/31/2020 - 20:20:06: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200131.log") (Version "1.10.0.6459")
+L 01/31/2020 - 20:20:06: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/01/2020 - 06:26:41: Log file closed.

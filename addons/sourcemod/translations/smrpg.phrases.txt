@@ -1,0 +1,876 @@
+"Phrases"
+{
+	"Inform about plugin"
+	{
+		// 1: Running RPG plugin version (e.g. 1.0)
+		"#format" "{1:s}"
+		"cze"			"Tento server je spuštěn v {G}RPG{N} verzi {1}."
+	}
+	
+	"Advertise rpgmenu command"
+	{
+		"cze"			"Napiš \"{G}rpg{N}\" pro nabídku možností."
+	}
+	
+	"Client level changed"
+	{
+		// 1: Name of the client which level has changed.
+		// 2: New rpg level of the client
+		"#format"	"{1:N},{2:d}"
+		"cze"			"{1} je nyní level {G}{2}{N}."
+	}
+	
+	"You have new credits"
+	{
+		// 1: Total amount of credits the player currently has.
+		"#format"	"{1:d}"
+		"cze"			"Získal jsi nové kredity ({G}{1}{N} celkem). Napiš \"{G}rpg{N}\" pro vylepšení."
+	}
+	
+	//Newbie Text
+	"Newbie instructions new level"
+	{
+		"cze"			"Získal jsi {G}nový level{N}!"
+	}
+	
+	"Newbie instructions use rpgmenu"
+	{
+		"cze"			"Do chatu napiš \"{G}rpgmenu{N}\" pro zobrazení hlavního menu."
+	}
+	
+	//Experience Hintbox
+	"Experience Gained Hintbox"
+	{
+		// 1: Amount of experience the client just gained.
+		// 2: Total amount of experience the client currently has on his level.
+		// 3: Amount of experience needed to reach the next level.
+		"#format"	"{1:d},{2:d},{3:d}"
+		"cze"			"Právě získaná zkušenost: {1}+\ do dalšího levelu: {2}/{3}"
+	}
+	
+	"rpgrank"
+	{
+		// 1: Name of the player whos rpgrank is being displayed.
+		// 2: RPG level of the player.
+		// 3: Current rpg rank of the player.
+		// 4: Total number of players ranked.
+		// 5: Amount of experience the player has on his level.
+		// 6: Amount of experience needed to reach the next level.
+		// 7: Amount of rpg credits of the player.
+		"#format"	"{1:N},{2:d},{3:d},{4:d},{5:d},{6:d},{7:d}"
+		"cze"			"{G}{1}{N} dosáhl úrovně {2}, rpgrank {3}/{4} s {5}/{6} zkušenostmi a {7} kreditami"
+	}
+	
+	"Top 10 Players"
+	{
+		"cze"			"Top 10 surfRPG hráčů"
+	}
+	
+	"Next ranked players"
+	{
+		"cze"			"Další ranky hráčů."
+	}
+	
+	"Player reached maxlevel"
+	{
+		// 1: Name of the player
+		// 2: Maximum level a player can reach.
+		"#format"	"{1:N},{2:d}"
+		"cze"			"{G}{1}{N} dosáhl maximální úroveně {G}{2}{N} a byl resetován."
+	}
+	
+	// Menu text
+	"Level"
+	{
+		// 1: Current rpg level of the player.
+		"#format" "{1:d}"
+		"cze"			"Úroveň: {1}"
+	}
+	
+	"Experience short"
+	{
+		// 1: Current amount of experience of the player.
+		// 2: Experience required for next level.
+		"#format" "{1:d},{2:d}"
+		"cze"			"Zkušenosti: {1}/{2}"
+	}
+	
+	"Experience"
+	{
+		"cze"			"Zkušenosti"
+	}
+	
+	"Credits"
+	{
+		// 1: Amount of credits the player has.
+		"#format" "{1:d}"
+		"cze"			"Kredity: {1}"
+	}
+	
+	"Rank"
+	{
+		// 1: Current rpg rank of the player.
+		// 2: Total amount of ranked players.
+		"#format" "{1:d},{2:d}"
+		"cze"			"Rank: {1}/{2}"
+	}
+	
+	"Last reset"
+	{
+		// 1: date and time representation of the last time the stats were reset to 0 for this player
+		"#format"	"{1:s}"
+		"cze"			"Poslední reset: {1}"
+	}
+	
+	"Experience Reason Other Client"
+	{
+		// 1: The amount of experience added to a client.
+		// 2: The reason this experience was added for
+		// 3: The name of the other client involved in the reason for this experience. (e.g. name of victim hurt)
+		"#format"	"{1:d},{2:s},{3:N}"
+		"cze"			 "{1} zkušeností za \"{2}\" proti {3}"
+	}
+	
+	"Experience Reason General"
+	{
+		// 1: The amount of experience added to a client.
+		// 2: The reason this experience was added for
+		"#format"	"{1:d},{2:s}"
+		"cze"			 "{1} zkušeností za \"{2}\""
+	}
+	
+	"Nothing to display"
+	{
+		"cze"			"Není co zobrazit."
+	}
+	
+	"Cost"
+	{
+		"cze"			"cena"
+	}
+	
+	"Sale"
+	{
+		"cze"			"prodej"
+	}
+	
+	"Is teamlocked"
+	{
+		// 1: The team name of the team the upgrade is restricted to.
+		"#format"		"{1:s}"
+		"cze"			"POUZE {1} TEAM!"
+	}
+	
+	"RPG menu buy upgrade entry max level"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Current level of the upgrade the player has purchased.
+		// 3: Maximal level of the upgrade.
+		// 4: "Cost" phrase.
+		"#format"	"{1:s},{2:d},{3:t},{4:s}"
+		"cze"			"{1} úroveň {2}/{3} [{4}: MAX]"
+	}
+	
+	"RPG menu buy upgrade entry show max"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Next level of the upgrade the player wants to purchase.
+		// 3: Maximal level of the upgrade.
+		// 4: "Cost" phrase.
+		// 5: Upgrade cost for the next level.
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:d}"
+		"cze"			"{1} úroveň {2}/{3} [{4}: {5}]"
+	}
+	
+	"RPG menu buy upgrade entry"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Next level of the upgrade the player wants to purchase.
+		// 3: Maximal level of the upgrade.	
+		// 4: "Cost" phrase.
+		// 5: Upgrade cost for the next level.
+		"#format"	"{1:s},{2:d},{3:t},{4:d},{5:s}"
+		"cze"			"{1} úroveň {2}/{3} [{4}: {5}]"
+	}
+	
+	"RPG menu sell upgrade entry show max"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Current level of the upgrade to be sold.
+		// 3: Maximal level of the upgrade.
+		// 4: "Sale" phrase.
+		// 5: Amount of credits player earns for selling the upgrade level.
+		"#format"	"{1:s},{2:d},{3:d},{4:t},{5:d}"
+		"cze"			"{1} {2}/{3} [{4}: {5}]"
+	}
+	
+	"RPG menu sell upgrade entry"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Current level of the upgrade to be sold.
+		// 3: Maximal level of the upgrade.
+		// 4: "Sale" phrase.
+		// 5: Amount of credits player earns for selling the upgrade level.
+		// 6: Optional " (Is teamlocked)" phrase if upgrade is locked to a team.
+		"#format"	"{1:s},{2:d},{3:t},{4:d},{5:s}"
+		"cze"			"{1} úroveň {2}/{3} [{4}: {5}]"
+	}
+	
+	"RPG menu upgrade settings entry level selection"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Currently selected level of the upgrade (might be lower than purchased).
+		// 3: Purchased level of the upgrade.
+		// 4: "On" or "Off" phrase depending on if the player has the upgrade enabled.
+		// 5: Optional " (Is teamlocked)" phrase if upgrade is locked to a team.
+		"#format"	"{1:s},{2:d},{3:d},{4:t},{5:s}"
+		"cze"			"{1} úroveň {2}/{3} [{4}]{5}"
+	}
+	
+	"RPG menu upgrade settings entry"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Purchased level of the upgrade.
+		// 3: Maximal level of the upgrade.
+		// 4: "On" or "Off" phrase depending on if the player has the upgrade enabled.
+		// 5: Optional " (Is teamlocked)" phrase if upgrade is locked to a team.
+		"#format"	"{1:s},{2:d},{3:t},{4:s}"
+		"cze"			"{1} úroveň {2}/{3} [{4}]{5}"
+	}
+	
+	"RPG menu other players upgrades entry max level"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Purchased level of the upgrade.
+		// 3: Maximal level of the upgrade.
+		"#format"	"{1:s},{2:d},{3:t}"
+		"cze"			"{1} úroveň {2}/{3} MAX"
+	}
+	
+	"RPG menu other players upgrades entry show max"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Purchased level of the upgrade.
+		// 3: Maximal level of the upgrade.
+		"#format"	"{1:s},{2:d},{3:t}"
+		"cze"			"{1} úroveň {2}/{3}"
+	}
+	
+	"RPG menu other players upgrades entry"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Purchased level of the upgrade.
+		// 3: Maximal level of the upgrade.
+		"#format"	"{1:s},{2:d},{3:t}"
+		"cze"			"{1} úroveň {2}/{3}"
+	}
+	
+	"Session"
+	{
+		"cze"			"Připojení"
+	}
+	
+	"Playtime"
+	{
+		// 1: The time in hh:mm:ss the player is on the server since he joined.
+		"#format" "{1:s}"
+		"cze"			"Doba strávená na serveru: {1}"
+	}
+	
+	"Changed level"
+	{
+		"cze"			"Změna úrovně"
+	}
+	
+	"Changed experience"
+	{
+		"cze"			"Změna zkušeností"
+	}
+	
+	"Changed credits"
+	{
+		"cze"			"Změna kreditů"
+	}
+	
+	"Changed rank"
+	{
+		"cze"			"Změna ranku"
+	}
+	
+	// Menu Options
+	"Menu"
+	{
+		"cze"			"Menu"
+	}
+	
+	"Upgrades"
+	{
+		"cze"			"Vylepšení"
+	}
+	
+	"Sell"
+	{
+		"cze"			"Prodat"
+	}
+	
+	"Upgrade Settings"
+	{
+		"cze"			"Nastavení vylepšení"
+	}
+	
+	"Last Experience"
+	{
+		"cze"			"Nejnovějši ziskané zkušenosti"
+	}
+	
+	"Stats"
+	{
+		"cze"			"Statistiky"
+	}
+	
+	"Settings"
+	{
+		"cze"			"Nastavení"
+	}
+	
+	"Help"
+	{
+		"cze"			"Pomoc"
+	}
+	
+	"Reset Stats"
+	{
+		"cze"			"Reset statistik"
+	}
+	
+	"Show menu on levelup"
+	{
+		"cze"			"Automaticky zobrazovat RPG menu, když dosáhnete nové úrovně"
+	}
+	
+	"Fade screen on levelup"
+	{
+		"cze"			"Blikajíci obrazovka po dosáhnutí nové úrovně"
+	}
+	
+	"Auto refresh panel"
+	{
+		"cze"			"Automatické obnovení"
+	}
+	
+	// Menu selection result
+	"Stats have been reset"
+	{
+		"cze"			"Tvoje statistiky byly úspěšně resetovány."
+	}
+	
+	"Maximum level reached"
+	{
+		"cze"			"Dosáhl jsi maximální úrovně tohoto vylepšení."
+	}
+	
+	"Not enough credits"
+	{
+		// 1: The name of the upgrade the player wanted to buy.
+		// 2: The level of the upgrade the player wanted to buy.
+		// 3: The amount of credits this level of the upgrade costs.
+		"#format"	"{1:s},{2:d},{3:d}"
+		"cze"			"Nemáš dostatek kreditů pro nákup {1} úrovně {2}. (Vyžaduje {3} kreditů)"
+	}
+	
+	"Upgrade bought"
+	{
+		// 1: The name of the upgrade the player just bought.
+		// 2: The new level of this upgrade.
+		"#format"	"{1:s},{2:d}"
+		"cze"			"{1} úroveň {2} úspěšně zakoupená."
+	}
+	
+	"Upgrade purchase notification"
+	{
+		// 1: The name of the player who bought an upgrade.
+		// 2: The name of the upgrade the player just bought.
+		// 3: The new level of this upgrade.
+		"#format"	"{1:N},{2:s},{3:d}"
+		"cze"			"{1} zakoupil {2} úroveně {3}."
+	}
+	
+	"Upgrade sold"
+	{
+		// 1: The name of the upgrade the player just sold.
+		// 2: The new level of this upgrade.
+		"#format"	"{1:s},{2:d}"
+		"cze"			"{1} úroveň byla prodána na {2}."
+	}
+	
+	//Menu Confirm
+	"Are you sure?"
+	{
+		"cze"			"Jsi si jistý?"
+	}
+	
+	"Confirm stats reset"
+	{
+		"cze"			"VAROVÁNÍ: Ztratíš tak všechny úrovně, kredity a zkušenosti. \ Opravdu chceš trvale resetovat statistiky?"
+	}
+	
+	//Menu upgrade settings
+	"Enabled"
+	{
+		"cze"			"Povoleno"
+	}
+	
+	"Selected level"
+	{
+		"cze"			"Vybraná úroveň"
+	}
+	
+	"Increase selected level"
+	{
+		"cze"			"Zvýšení vybrané úrovně"
+	}
+	
+	"Decrease selected level"
+	{
+		"cze"			"Snižte vybranou úroveň"
+	}
+	
+	"Visual effects"
+	{
+		"cze"			"Vizuální efekty"
+	}
+	
+	"Sound effects"
+	{
+		"cze"			"Zvukové efekty"
+	}
+
+	
+	// Admin menu
+	"Commands"
+	{
+		"cze"			"Přikazy"
+	}
+	
+	"Manage players"
+	{
+		"cze"			"Správa hráčů"
+	}
+	
+	"Select player"
+	{
+		"cze"			"Vyberte hráče:"
+	}
+	
+	"Player Details"
+	{
+		"cze"			"Detaily hráče"
+	}
+	
+	"Manage stats"
+	{
+		"cze"			"Spravujte statistiky RPG"
+	}
+	
+	"Manage upgrades"
+	{
+		"cze"			"Správa vylepšení"
+	}
+	
+	"Reset player"
+	{
+		"cze"			"Resetujte hráče"
+	}
+	
+	"Confirm reset player"
+	{
+		// 1: Name of the player to reset stats of.
+		"#format"	"{1:N}"
+		"cze"			"Opravdu chcete resetovat statistiky a vylepšení z {1}?"
+	}
+	
+	"Inform player reset"
+	{
+		// 1: Name of the player who's stats got reset.
+		"#format"	"{1:N}"
+		"cze"			"{1}Statistiky byly trvale resetovány."
+	}
+	
+	"Change credits"
+	{
+		"cze"			"Změnit kredity"
+	}
+	
+	"Change experience"
+	{
+		"cze"			"Změnit zkušenosti"
+	}
+	
+	"Change level"
+	{
+		"cze"			"Změnit úroveň"
+	}
+	
+	"Manage player upgrades"
+	{
+		"cze"			"Spravujte vylepšení hráčů"
+	}
+	
+	"Give all upgrades free"
+	{
+		"cze"			"Poskytujte všechny vylepšení bez nákladů"
+	}
+	
+	"Adminflags hint"
+	{
+		// 1: The required admin flags like "ab" for that upgrade.
+		"#format"	"{1:s}"
+		"cze"			" (adminflags: {1})"
+	}
+	
+	"Adminflags Admin Denied Warning"
+	{
+		"cze"			"ŽÁDNÝ PŘÍSTUP"
+	}
+	
+	"Adminflags Admin Inform OK"
+	{
+		"cze"			"OK"
+	}
+	
+	"Teamlock hint"
+	{
+		// 1: The team name this upgrade is locked to.
+		"#format"	"{1:s}"
+		"cze"			" (teamlock: {1})"
+	}
+	
+	"Admin player upgrades list item maxed"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Player's current purchased level of the upgrade.
+		// 3: Maximum level of the upgrade.
+		// 4: Optional required permissions ("Adminflags hint" phrase)
+		// 5: Optional locked team ("Teamlock hint" phrase)
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:s}"
+		"cze"			"{1} Úroveň MAX {2}/{3}{4}{5}"
+	}
+	
+	"Admin player upgrades list item"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Player's current purchased level of the upgrade.
+		// 3: Maximum level of the upgrade.
+		// 4: Optional required permissions ("Adminflags hint" phrase)
+		// 5: Optional locked team ("Teamlock hint" phrase)
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:s}"
+		"cze"			"{1} Úroveň {2}/{3}{4}{5}"
+	}
+	
+	"Confirm max all player upgrades"
+	{
+		// 1: The name of the player who's upgrades should be upgraded.
+		"#format"	"{1:N}"
+		"cze"			"Opravdu chcete nastavit všechny vylepšení na maximální úroveň pro {1}?"
+	}
+	
+	"Inform player upgrades maxed"
+	{
+		// 1: The name of the player who's upgrades got set to the maximal level.
+		"#format"	"{1:N}"
+		"cze"			"{1} nyní máte všechny vylepšení na max."
+	}
+	
+	"Change player upgrade level"
+	{
+		// 1: Name of player who's upgrade level should be changed.
+		"#format"	"{1:N}"
+		"cze"			"Změnit {1}úroveň upgradu"
+	}
+	
+	"Current player upgrade level"
+	{
+		// 1: Translated name of the upgrade.
+		// 2: Current purchased level of the upgrade.
+		// 3: Maximal level of the upgrade.
+		"#format"	"{1:s},{2:d},{3:d}"
+		"cze"			"{1}: {2}/{3}"
+	}
+	
+	"Reset player upgrade level 0"
+	{
+		"cze"			"Reset úrovně na 0"
+	}
+	
+	"Remove player upgrade level"
+	{
+		"cze"			"Odstraňte úroveň"
+	}
+	
+	"Add player upgrade level"
+	{
+		"cze"			"Přidejte úroveň"
+	}
+	
+	"Set player upgrade level to max"
+	{
+		"cze"			"Nastavte na maximální úroveň"
+	}
+	
+	"Take player upgrade level full refund"
+	{
+		"cze"			"Vezměte úroveň s plnou náhradou"
+	}
+	
+	"Force player sell upgrade level"
+	{
+		"cze"			"Síla k prodeji úrovně"
+	}
+	
+	"Take player upgrade level no refund"
+	{
+		"cze"			"Vezměte úroveň bez náhrady"
+	}
+	
+	"Give player upgrade level for free"
+	{
+		"cze"			"Darujte úroveň zdarma"
+	}
+	
+	"Force player buy upgrade level"
+	{
+		"cze"			"Síla k nákupu úrovně"
+	}
+	
+	"Admin reset player upgrades notification"
+	{
+		// 1: Name of the player who got his upgrade reset.
+		// 2: Translated name of the upgrade which got reset.
+		// 3: Previous level of the upgrade before resetting.
+		// 4: New upgrade level after resetting (usually 0).
+		// 5: Returned credits for the bought upgrade levels. Full refund = same amount player payed for it.
+		"#format"	"{1:N},{2:s},{3:d},{4:d},{5:d}"
+		"cze"			"Reset {1}vylepšení {2} s plnou náhradou všech nákladů na upgrade. Úroveň upgradu se změnila z {3} na {4} a hráč vydělával {5} kreditu."
+	}
+	
+	"Admin force buy insufficient funds"
+	{
+		// 1: Name of the player who was forced to buy the upgrade.
+		// 2: Translated name of the upgrade.
+		// 3: Current amount of credits the client has.
+		// 4: Cost for the next level of the upgrade.
+		"#format"	"{1:N},{2:s},{3:d},{4:d}"
+		"cze"			"{1} nemá dostatek kreditů na nákup {2} ({3}/{4})"
+	}
+	
+	"Upgrade short name"
+	{
+		// 1: Shortname of the upgrade (used in commands to reference it)
+		"#format"	"{1:s}"
+		"cze"			"Krátké jméno: {1}"
+	}
+	
+	"Admin disable upgrade"
+	{
+		"cze"			"Zakázat vylepšení"
+	}
+	
+	"Admin enable upgrade"
+	{
+		"cze"			"Povolit vylepšení"
+	}
+	
+	"Admin upgrade info maxlevel barrier"
+	{
+		// 1: Maximal level the upgrade can be set to / supports.
+		"#format"	"{1:d}"
+		"cze"			"Bariéra pro maximální úroveň: {1}"
+	}
+	
+	"Admin upgrade info maxlevel"
+	{
+		// 1: Current maximal level of the upgrade.
+		"#format"	"{1:d}"
+		"cze"			"Maximální úroveň: {1}"
+	}
+	
+	"Admin upgrade info cost"
+	{
+		// 1: Current upgrade starting cost.
+		"#format"	"{1:d}"
+		"cze"			"Cena: {1}"
+	}
+	
+	"Admin upgrade info increase cost"
+	{
+		// 1: Current upgrade increasing cost.
+		"#format"	"{1:d}"
+		"cze"			"Zvyšte náklady: {1}"
+	}
+	
+	"Admin upgrade info teamlock"
+	{
+		// 1: Team name of the team this upgrade is locked to.
+		"#format"	"{1:s}"
+		"cze"			"Teamlock: {1}"
+	}
+	
+	"Admin upgrade info visual effects"
+	{
+		// 1: Translated "On" or "Off"
+		"#format"	"{1:t}"
+		"cze"			"Vizuální efekty: {1}" 
+	}
+	
+	"Admin upgrade info sound effects"
+	{
+		// 1: Translated "On" or "Off"
+		"#format"	"{1:t}"
+		"cze"			"Zvukové efekty: {1}"
+	}
+	
+	"Admin upgrades change maxlevel"
+	{
+		// 1: Current upgrade's maxlevel.
+		"#format"	"{1:d}"
+		"cze"			"Dočasně změňte maximální úroveň: {1}"
+	}
+	
+	"Admin upgrades change start cost"
+	{
+		// 1: Current upgrade's start cost.
+		"#format"	"{1:d}"
+		"cze"			"Dočasně změňte počáteční náklady: {1}"
+	}
+	
+	"Admin upgrades change increasing cost"
+	{
+		// 1: Current upgrade's increasing cost.
+		"#format"	"{1:d}"
+		"cze"			"Dočasně změňte rostoucí náklady: {1}"
+	}	
+	
+	
+	// Command help
+	"rpgmenu short desc"
+	{
+		"cze"			"Otevře hlavní nabídku RPG."
+	}
+	
+	"rpgmenu desc"
+	{
+		"cze"			"Otevře hlavní nabídku RPG. Můžeš si koupit nebo prodat upgrady, zobrazit své statistiky, zobrazit seznam příkazů a změnit nastavení."
+	}
+	
+	"rpgmenu advert"
+	{
+		"cze"			"Napsáním {G}/rpg{N}, otevřeš hlavní nabídku RPG. Najdeš zde {G}svá vylepšení{N} a další možnosti."
+	}
+	
+	"rpgrank short desc"
+	{
+		"cze"			"Zobrazí tvůj rank nebo rank dané osoby."
+	}
+	
+	"rpgrank desc"
+	{
+		"cze"			"Zobrazuje tvůj rank nebo rank cílové osoby. Použij: {N}/rpgrank <jméno nebo #steamid>"
+	}
+	
+	"rpgrank advert"
+	{
+		"cze"			"Napiš {G}/rpgrank{N} pro zobrazení vlastních statistik nebo {G}/rpgrank <jméno>{N} pro zobrazení statistik někoho jiného."
+	}
+	
+	"rpginfo short desc"
+	{
+		"cze"			"Zobrazí zakoupené vylepšení dané osoby."
+	}
+	
+	"rpginfo desc"
+	{
+		"cze"			"Zobrazuje zakoupené vylepšení dané osoby. Použij: {G}/rpginfo <jméno nebo #steamid>{N}"
+	}
+	
+	"rpginfo advert"
+	{
+		"cze"			"Po napsání {G}/rpginfo <jméno>{N} se ti zobrazí zakoupená vylepšení daného hráče."
+	}
+	
+	"rpgtop10 short desc"
+	{
+		"cze"			"Zobrazí 10 nejlepších RPG hráčů."
+	}
+	
+	"rpgtop10 desc"
+	{
+		"cze"			"Zobrazí 10 nejlepších RPG hráčů na tomto serveru."
+	}
+	
+	"rpgtop10 advert"
+	{
+		"cze"			"Napiš {G}/rpgtop10{N} pro zobrazení 10 nejlepších RPG hráčů na tomto serveru."
+	}
+	
+	"rpgnext short desc"
+	{
+		"cze"			"Zobrazí hráče, kteří jsou před tebou."
+	}
+	
+	"rpgnext desc"
+	{
+		"cze"			"Zobrazí seznam hráčů, kteří jsou v žebříčku přímo před tebou."
+	}
+	
+	"rpgnext advert"
+	{
+		"cze"			"Napiš {G}/rpgnext{N} pro zobrazení seznamu hráčů, kteří jsou v žebříčku přímo před tebou."
+	}
+	
+	"rpgsession short desc"
+	{
+		"cze"			"Zobrazí tvoje statistiky pro tuto mapu."
+	}
+	
+	"rpgsession desc"
+	{
+		"cze"			"Zobrazí statistiky o tom, jak jsi si vedl v této mapě."
+	}
+	
+	"rpgsession advert"
+	{
+		"cze"			"Napiš {G}/rpgsession{N} abys zkontroloval, jak tato mapa ovlivnila tvoje statistiky."
+	}
+	
+	"rpghelp short desc"
+	{
+		"cze"			"Zobrazí nápovědu k vylepšení."
+	}
+	
+	"rpghelp desc"
+	{
+		"cze"			"Zobrazíš nabídku nápovědy RPG, kde získáš podrobný popis všech vylepšení."
+	}
+	
+	"rpghelp advert"
+	{
+		"cze"			"Napiš {G}/rpghelp{N} pro podrobný popis všech vylepšení."
+	}
+	
+	"rpgexp short desc"
+	{
+		"cze"			"Zobrazí nejnovější získané zkušenosti."
+	}
+	
+	"rpgexp desc"
+	{
+		"cze"			"Uvede částku a důvody nejnovějších zkušeností, které jsi získal."
+	}
+	
+	"rpgexp advert"
+	{
+		// 1: Value of smrpg_lastexperience_count. The amount of experience saved in the array.
+		"#format" "{1:d}"
+		"cze"			"Napiš {G}/rpgexp{N} pro zobrazení nejnovějších {1}, důvodu a množství."
+	}
+}

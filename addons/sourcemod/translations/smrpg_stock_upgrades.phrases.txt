@@ -1,0 +1,222 @@
+"Phrases"
+{
+	"regen"
+	{
+		"cze"			"HP Regenerace"
+	}
+	
+	"regen description"
+	{
+		"cze"			"Pravidelně regeneruje HP."
+	}
+	
+	"health"
+	{
+		"cze"			"Zdraví+"
+	}
+	
+	"health description"
+	{
+		"cze"			"Zvyšuje maximální zdraví."
+	}
+	
+	"resup"
+	{
+		"cze"			"Zásobování"
+	}
+	
+	"resup description"
+	{
+		"cze"			"Pravidelně obnovuje munici."
+	}
+	
+	"vamp"
+	{
+		"cze"			"Vampýrismus"
+	}
+	
+	"vamp description"
+	{
+		"cze"			"Léčí se poškozováním ostatních."
+	}
+	
+	"stealth"
+	{
+		"cze"			"Neviditelnost"
+	}
+	
+	"stealth description"
+	{
+		"cze"			"Zmenšuje viditelnost."
+	}
+	
+	"ljump"
+	{
+		"cze"			"Skok do dálky"
+	}
+	
+	"ljump description"
+	{
+		"cze"			"Zvětšuje doskok."
+	}
+
+	"icestab"
+	{
+		"cze"			"Ledové bodnutí"
+	}
+	
+	"icestab description"
+	{
+		"cze"			"Při zásahu nožem se hráč zmrazí."
+	}
+	
+	"fpistol"
+	{
+		"cze"			"Ledová pistol"
+	}
+	
+	"fpistol description"
+	{
+		"cze"			"Při zásahu pistolí se hráč zpomalí."
+	}
+	
+	"denial"
+	{
+		"cze"			"Ponechání"
+	}
+	
+	"denial description"
+	{
+		"cze"			"Vaše zbraně vám i po smrti zůstanou do dalšího kola."
+	}
+	
+	"impulse"
+	{
+		"cze"			"Impuls"
+	}
+	
+	"impulse description"
+	{
+		"cze"			"Při obdržení poškození od jiného hráče, poskytuje bonus k rychlosti pohybu."
+	}
+	
+	"medic"
+	{
+		"cze"			"Medic"
+	}
+	
+	"medic description"
+	{
+		"cze"			"Léčí spoluhráče kolem vás."
+	}
+	
+	"speed"
+	{
+		"cze"			"Rychlost+"
+	}
+	
+	"speed description"
+	{
+		"cze"			"Zvyšte svou průměrnou rychlost pohybu."
+	}
+  
+	"damage"
+	{
+		"cze"			"Poškození+"
+	}
+	
+	"damage description"
+	{
+		"cze"			"Zvyšuje poškození."
+	}
+	
+	"armorregen"
+	{
+		"cze"			"Regenerace armoru"
+	}
+	
+	"armorregen description"
+	{
+		"cze"			"Pravidelně regeneruje armor."
+	}
+
+	"shrinking"
+	{
+		"cze"			"Zmenšení"
+	}
+	
+	"shrinking description"
+	{
+		"cze"			"Zmenšuje váš model a tak vás dělá hůře zasáhnutelným."
+	}
+	
+	"armorplus"
+	{
+		"cze"			"Armor+"
+	}
+	
+	"armorplus description"
+	{
+		"cze"			"Zvyšuje maximální armor."
+	}
+	
+	"fastreload"
+	{
+		"cze"			"Přebíjení"
+	}
+	
+	"fastreload description"
+	{
+		"cze"			"Zrychluje rychlost vašeho přebíjení."
+	}
+	
+	"firepistol"
+	{
+		"cze"			"Ohnivá pistol"
+	}
+	
+	"firepistol description"
+	{
+		"cze"			"Při zásahu pistolí hráče zapálíte."
+	}
+
+	"firerate"
+	{
+		"cze"			"Firerate"
+	}
+	
+	"firerate description"
+	{
+		"cze"			"Zvyšuje rychlost střelby zbraní."
+	}
+
+	"antidote"
+	{
+		"cze"			"Protijed"
+	}
+	
+	"antidote description"
+	{
+		"cze"			"Zkrátí trvání škodlivých účinků, jako je zmražení, zapálení nebo zpomalení."
+	}
+
+	"armorhelmet"
+	{
+		"cze"			"Helma"
+	}
+	
+	"armorhelmet description"
+	{
+		"cze"			"Poskytuje šanci získat na spawnu helmu."
+	}
+
+	"adrenaline"
+	{
+		"cze"			"Adrenalin"
+	}
+	
+	"adrenaline description"
+	{
+		"cze"			"Při poškozování někoho jiného poskytuje bonus k rychlosti pohybu."
+	}
+}

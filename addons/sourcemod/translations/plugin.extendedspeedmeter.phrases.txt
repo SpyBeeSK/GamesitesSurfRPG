@@ -1,0 +1,171 @@
+"Phrases"
+{
+	"Current speed"
+	{
+		"cze"	" {green}Aktuální rychlost"
+	}
+	"Speed meter"
+	{
+		"cze"	"Měřič rychlosti"
+	}
+	"Current speedrecords on this round"
+	{
+		"cze"	"Rychlostní záznamy v tomto {red}kole"
+	}
+	"Current speedrecords on this map"
+	{
+		"cze"	"Rychlostní záznamy na této {red}mapě"
+	}
+	"Highest speedrecords on this map"
+	{
+		"cze"	"Nejvyšší rychlost na této {red}mapě"
+	}
+	"Highest speedrecords on this map (colorless)"
+	{
+		"cze"	"Nejvyšší rychlosti na této mapě"
+	}
+	"Highest speedrecords on all maps"
+	{
+		"cze"	"Nejvyšší rychlostní záznamy na {red}všech mapách"
+	}
+	"Highest speedrecords on all maps (colorless)"
+	{
+		"cze"	"Nejvyšší rychlostní záznamy na všech mapách"
+	}
+	"Personal speedrecords"
+	{
+		"cze"	"Osobní záznam rychlosti"
+	}
+	"All speedrecords of"
+	{
+		"cze"	"Všechny rychlostní záznamy z"
+	}
+	"No speedrecord found"
+	{
+		"cze"	"Nebyl nalezen žádný záznam rychlosti."
+	}
+	"You are flooding the server, try again later"
+	{
+		"cze"	"Zaplavujete server, zkuste to znovu později."
+	}
+	"New fastest speedrecord"
+	{
+		"cze"	"Nový nejrychlejší záznam rychlosti"
+	}
+	"Speedrecord"
+	{
+		"cze"	"Rychlostní záznam"
+	}
+	"Map"
+	{
+		"cze"	"Mapa"
+	}
+	"Player"
+	{
+		"cze"	"Hráč"
+	}
+	"Speed"
+	{
+		"cze"	"Rychlost"
+	}
+	"Timestamp"
+	{
+		"cze"	"Časová známka"
+	}
+	"Speed meter Commands"
+	{
+		"cze"	"Příkazy měřiče rychlosti"
+	}
+	"Reset a current speedrecord"
+	{
+		"cze"	"Reset aktuálního rychlostního záznamu"
+	}
+	"Reset all current speedrecords"
+	{
+		"cze"	"Reset všech rychlostních záznamů"
+	}
+	"Are you sure"
+	{
+		"cze"	"Jsi si jistý?"
+	}
+	"Delete a saved speedrecord on the current map"
+	{
+		"cze"	"Vymazat rychlostní záznam na této mapě"
+	}
+	"Delete all saved speedrecords on the current map"
+	{
+		"cze"	"Vymazat všechny uložené záznamy rychlosti na této mapě"
+	}
+	"Delete a saved speedrecord on a different map"
+	{
+		"cze"	"Vymazat uložené rychlostí na jiné mapě"
+	}
+	"Delete all saved speedrecords on a different map"
+	{
+		"cze"	"Vymazat všechny uložené rychlosti na jiné mapě"
+	}
+	"Delete all saved speedrecords on"
+	{
+		"cze"	"Vymazat všechny uložené rychlosti na"
+	}
+	"Back"
+	{
+		"cze"	"Zpět"
+	}
+	"Yes"
+	{
+		"cze"	"Ano"
+	}
+	"No"
+	{
+		"cze"	"Ne"
+	}
+	"For more info about Speed meter, type !topspeedhelp in chat"
+	{
+		"cze"	"Pro více informací o měřiči rychlosti zadejte {green}/topspeedhelp{default} do chatu"
+	}
+	"Speed meter help"
+	{
+		"cze"	"Nápověda k měřiči rychlosti"
+	}
+	"View all speedrecords of the current players on the current map"
+	{
+		"cze"	"Zobrazení záznamu rychlostí na této mapě"
+	}
+	"View the highest speedrecords of all players on the current map"
+	{
+		"cze"	"Zobrazení nejvyšších rychlostí na této mapě"
+	}
+	"View the highest speedrecords of all players on all maps"
+	{
+		"cze"	"Rekordy v rychlosti na všech mapách"
+	}
+	"View your highest speedrecords and rankings on all maps"
+	{
+		"cze"	"Zobrazení tvých nejvyšších rychlostí a hodnocení"
+	}
+	"Check console for all current speedrecords"
+	{
+		"cze"	"Otevři konzoli pro aktuální záznamy rychlosti"
+	}
+	"Amount of records"
+	{
+		"cze"	"Množství záznamů"
+	}
+	"Listing speedrecords"
+	{
+		"cze"	"Rychlostní záznamy"
+	}
+	"SteamID"
+	{
+		"cze"	"SteamID"
+	}
+	"Game Speed"
+	{
+		"cze"	"Rychlost hry"
+	}
+	"Round Speed"
+	{
+		"cze"	"Rychlost kola
+	}
+}

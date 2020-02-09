@@ -1,0 +1,76 @@
+//Teams: 0 - terror, 1 - ct
+"Skins"
+{
+	"1"
+	{
+		"name"			"Connor Kenway"
+		"model"		"models/player/custom_player/caleon1/connor/connor.mdl"
+		"team"			"1"
+	}
+	"2"
+	{
+		"name"			"Prison Guard"
+		"model"		"models/player/custom_player/caleon1/prisonguard/prisonguard.mdl"
+		"team"			"0"
+	}
+	"3"
+	{
+		"name"			"Ezio Auditore da Firenze"
+		"model"		"models/player/custom_player/voikanaa/acb/ezio.mdl"
+		"team"			"1"
+	}
+	"4"
+	{
+		"name"			"Batman"
+		"model"		"models/player/custom_player/kuristaja/ak/batman/batmanv2.mdl"
+		"team"			"0"
+	}
+	"5"
+	{
+		"name"			"Trevor Philips"
+		"model"		"models/player/gtav/trevor.mdl"
+		"team"			"1"
+	}
+	"6"
+	{
+		"name"			"Rocket Raccoon"
+		"model"		"models/player/custom_player/stenli/rocket_raccoon_green.mdl"
+		"team"			"0"
+	}
+	"7"
+	{
+		"name"			"Jetpack"
+		"model"		"models/rodrigo286/jetpack/jetpack.mdl"
+		"team"			"1"
+	}
+	"8"
+	{
+		"name"			"One Punch Man"
+		"model"		"models/player/custom_player/legacy/saitama/saitama.mdl"
+		"team"			"0"
+	}
+	"9"
+	{
+		"name"			"Darth Vader"
+		"model"		"models/player/custom_player/kuristaja/vader/vader.mdl"
+		"team"			"1"
+	}
+	"10"
+	{
+		"name"			"StormTrooper"
+		"model"		"models/player/custom_player/kuristaja/stormtrooper/stormtrooper.mdl"
+		"team"			"0"
+	}
+	"11"
+	{
+		"name"			"Shrek"
+		"model"		"models/player/custom_player/kuristaja/shrek/shrek.mdl"
+		"team"			"1"
+	}
+	"12"
+	{
+		"name"			"Alien"
+		"model"		"models/player/custom_player/kuristaja/fo4/alien/alien.mdl"
+		"team"			"0"
+	}
+}

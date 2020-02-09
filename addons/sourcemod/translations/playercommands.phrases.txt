@@ -1,0 +1,45 @@
+"Phrases"
+{
+	"Name changed"
+	{
+		"cze"			"Admin tě přejmenoval"
+	}
+
+	"Renamed target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"Přejmenoval {1}."
+	}
+
+	"Rename player"
+	{
+		"cze"			"Přejmenovat hráče"
+	}
+	
+	"Slap player"
+	{
+		"cze"			"Vylískat hráče"
+	}
+
+	"Slap damage"
+	{
+		"cze"			"Síla vylískání"
+	}
+	
+	"Slay player"
+	{
+		"cze"			"Zabít hráče"
+	}
+	
+	"Slapped target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"Vylískal {1}."
+	}
+	
+	"Slayed target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"Zabil {1}."
+	}
+}

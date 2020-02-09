@@ -1,0 +1,179 @@
+"Phrases"
+{
+	"Burn player"
+	{
+		"cze"			"Zapálit hráče"
+	}
+	
+	"FireBomb player"
+	{
+		"cze"			"Udělat z hráče ohnivou bombu"
+	}
+	
+	"Freeze player"
+	{
+		"cze"			"Zmrazit hráče"
+	}
+	
+	"FreezeBomb player"
+	{
+		"cze"			"Udělat z hráče zmraženou bombu"
+	}	
+	
+	"TimeBomb player"
+	{
+		"cze"			"Udělat z hráče časovanou bombu"
+	}	
+	
+	"Beacon player"
+	{
+		"cze"			"Označit hráče"
+	}
+	
+	"NoClip player"
+	{
+		"cze"			"NoClipnout hráče"
+	}
+	
+	"Blind player"
+	{
+		"cze"			"Oslepit hráče"
+	}
+	
+	"Drug player"
+	{
+		"cze"			"Zfetovat hráče"
+	}
+	
+	"Gravity player"
+	{
+		"cze"			"Nastavit hráči gravitaci"
+	}
+	
+	"Blind amount"
+	{
+		"cze"			"Oslepit?"
+	}
+	
+	"Fully blind"
+	{
+		"cze"			"Úplné oslepení"
+	}
+	
+	"Half blind"
+	{
+		"cze"			"Polovičníí oslepení"
+	}
+	
+	"No blind"
+	{
+		"cze"			"Žádné oslepení"
+	}
+	
+	"Gravity amount"
+	{
+		"cze"			"Gravitace?"
+	}
+	
+	"Gravity Very High"
+	{
+		"cze"			"Velice vysoká gravitace"
+	}
+	
+	"Gravity High"
+	{
+		"cze"			"Vysoká gravitace"
+	}
+	
+	"Gravity Normal"
+	{
+		"cze"			"Normální gravitace"
+	}
+	
+	"Gravity Low"
+	{
+		"cze"			"Mála gravitace"
+	}
+	
+	"Gravity Very Low"
+	{
+		"cze"			"Velice nízká gravitace"
+	}
+	
+	"Set target on fire"
+	{
+		"#format"		"{1:t}"
+		"cze"			"zapálil hráče {1}."
+	}
+	
+	"Toggled FireBomb on target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"udělal z hráče {1} ohnivou bombu."
+	}	
+
+	"Froze target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"zmrazil hráče {1}."
+	}
+	
+	"Unfrozen"
+	{
+		"cze"			"Byl jsi odmražen."
+	}
+	
+	"You will be unfrozen"
+	{
+		"#format"		"{1:d}"
+		"cze"			"Budeš odmražen za {1} sekund."
+	}
+	
+	"Toggled FreezeBomb on target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"udělal z hráče {1} mrazící bombu."
+	}	
+	
+	"Toggled beacon on target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"označil hráče {1}."
+	}
+	
+	"Toggled TimeBomb on target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"udělal z hráče {1} časovanou bombu."
+	}
+
+	"Toggled noclip on target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"nastavil hráči {1} noclip."
+	}
+	
+	"Toggled drug on target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"zfetoval hráče {1}."
+	}	
+	
+	"Set blind on target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"oslepil hráče {1}."
+	}
+	
+	"Set gravity on target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"nastavil hráči {1} gravitaci."
+	}	
+	
+	"Till Explodes"
+	{
+		"#format"		"{1:s},{2:d}"
+		"cze"			"{2} sekund, dokud hráč {1} vybouchne."
+	}
+}

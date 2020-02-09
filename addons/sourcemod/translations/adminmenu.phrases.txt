@@ -1,0 +1,22 @@
+"Phrases"
+{
+	"Admin Menu"
+	{
+		"cze"			"Admin Menu"
+	}
+	
+	"Player Commands"
+	{
+		"cze"			"Hráčské přikazy"
+	}
+
+	"Server Commands"
+	{
+		"cze"			"Serverové přikazy"
+	}
+
+	"Voting Commands"
+	{
+		"cze"			"Hlasovací přikazy"
+	}
+}

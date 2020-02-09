@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "event_overlay/overlay2/hs"
+	$translucent 1
+}

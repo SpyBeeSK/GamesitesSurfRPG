@@ -1,0 +1,53 @@
+﻿"Phrases"
+{
+	"DuelCancelled"
+	{
+	    "#format"	"{1:s}"
+		"cze"		"{1}Souboj byl zrušen!"
+	}
+	"Decoy1HP"
+	{
+	    "#format"	"{1:s}"
+		"cze"		"{1}Souboj bude DECOY + 1HP."
+	}
+	"SpeedKnife"
+	{
+	    "#format"	"{1:s}"
+		"cze"		"{1}Souboj bude SPEED + KNIFE."
+	}
+	"KnifeLowGravity"
+	{
+	    "#format"	"{1:s}"
+		"cze"		"{1}Souboj bude KNIFE + LOW GRAVITY."
+	}
+	"AwNoscope"
+	{
+	    "#format"	"{1:s}"
+		"cze"		"{1}Souboj bude AWP Noscope."
+	}
+	"Deagle1tap"
+	{
+	    "#format"	"{1:s}"
+		"cze"		"{1}Souboj bude Deagle 1TAP."
+	}
+	"ZEUSDUEL"
+	{
+	    "#format"	"{1:s}"
+		"cze"		"{1}Souboj bude zeus."
+	}
+	"DisableDuelMusic"
+	{
+	    "#format"	"{1:s}"
+		"cze"		"{1}Zakázal jsi duelovou hudbu."
+	}
+	"EnableDuelMusic"
+	{
+	    "#format"	"{1:s}"
+		"cze"		"{1}Povolil jsi duelovou hudbu."
+	}
+        DuelVotePref
+	{
+	    "#format"	"{1:s}"
+		"cze"		"{1}Změnil jsi své hlasování."
+	}
+}

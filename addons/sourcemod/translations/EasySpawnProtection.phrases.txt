@@ -1,0 +1,16 @@
+"Phrases"
+{
+  "Spawn Protection Start"
+  {
+    "#format"		"{1:d}"
+		"cze"  "Všichni hráči mají po dobu {lightgreen}{1}{default} sekund spawn ochranu."  
+  }
+  "Spawn Protection End Normal"
+  {
+		"cze"  "Spawn ochrana vypršela."
+  }
+  "Spawn Protection End Attack"
+  {
+        "cze" "Střílel jsi ze zbraně, takže ti vypršela spawn ochrana."
+  }
+}

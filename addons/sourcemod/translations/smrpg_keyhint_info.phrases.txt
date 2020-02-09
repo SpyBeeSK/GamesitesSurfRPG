@@ -1,0 +1,35 @@
+"Phrases"
+{
+	"RPG stats"
+	{
+		"cze"			"RPG statistiky"
+	}
+
+	"Show for other player"
+	{
+		// 1: "RPG stats" phrase
+		// 2: Name of the target client.
+		"#format"		"{1:t},{2:N}"
+		"cze"			"{1} hráče {2}"
+	}
+
+	"Player is AFK"
+	{
+		"cze"			"Hráč je AFK"
+	}
+
+	"Hide stats info panel"
+	{
+		"cze"			"Skrýt statistiky"
+	}
+
+	"Last Experience Short"
+	{
+		"cze"			"Poslední zkušenosti"
+	}
+
+	"Estimated time until levelup"
+	{
+		"cze"			"Level up za"
+	}
+}

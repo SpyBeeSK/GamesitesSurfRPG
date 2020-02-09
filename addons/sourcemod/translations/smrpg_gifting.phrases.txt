@@ -1,0 +1,55 @@
+"Phrases"
+{
+  "Don't give yourself a gift"
+  {
+    "cze"  "K čemu bys je daroval sobě? :)"
+  }
+  "Need at least 1 credit"
+  {
+    "cze"  "Musíte darovat alespoň 1 kredit!"
+  }
+  "You don't have enough credits"
+  {
+    "cze"  "Nemáte dostatek kreditů."
+  }
+  "You have to be min level"
+  {
+    // 1: Minimum level from which you are allowed to gift credits to someone.
+    "#format" "{1:d}"
+    "cze"  "Musíte být alespoň {N} úroveň {1}{G} pro darování kreditů."
+  }
+  "Failed to give credits"
+  {
+    // 1: The amount of credits the player tried to give as a gift.
+    // 2: The name of the receiver.
+    "#format" "{1:d},{2:N}"
+    "cze"  "Nepodařilo se darovat {1} kreditů pro {2}."
+  }
+  "Fatal Error giving credits. Credits lost."
+  {
+    // 1: The amount of credits the player tried to give as a gift.
+    // 2: The name of the receiver.
+    "#format" "{1:d},{2:N}"
+    "cze"  "Nepodařilo se vám darovat {1} kreditů {2} a vaše kredity nemůžou být navráceny. Kontaktujte admina!"
+  }
+  "Gave credits as a gift"
+  {
+    // 1: The name of the generous player giving some credits.
+    // 2: The amount of credits the player gave as a gift.
+    // 3: The name of the receiver.
+    "#format" "{1:N},{2:d},{3:N}"
+    "cze"  "{1} daroval {2} kreditů {3} jako dárek!"
+  }
+  "rpggift short desc"
+  {
+    "cze"  "Darujte své kredity jinému hráči."
+  }
+  "rpggift desc"
+  {
+    "cze"  "Darujte své kredity jinému hráči. Použijte: {N}rpggift <#userid|authid|name> <kredity>"
+  }
+  "rpggift advert"
+  {
+    "cze"  "Zadejte {N}rpggift{G} pro udělení kreditů někomu jinému jako {N}dárek{G}!"
+  }
+}

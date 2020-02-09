@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Player camping"
+	{
+		"#format"		"{1:s},{2:s},{3:s},{4:c},{5:c},{6:c},{7:c},{8:c},{9:c}"
+		"cze"			"{4}Hráč:{5} {1}{6} campí se zbraní{7} {2}{8}. @{9} {3}"
+	}	
+}

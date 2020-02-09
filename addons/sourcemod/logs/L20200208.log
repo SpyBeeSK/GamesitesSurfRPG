@@ -1,0 +1,65 @@
+L 02/08/2020 - 06:26:54: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200208.log") (Version "1.10.0.6459")
+L 02/08/2020 - 06:26:54: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 13:12:38: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/08/2020 - 13:12:39: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 13:12:59: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/08/2020 - 13:12:59: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/08/2020 - 15:48:10: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200208.log") (Version "1.10.0.6459")
+L 02/08/2020 - 15:48:10: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 15:48:45: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/08/2020 - 15:48:47: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 15:48:47: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/08/2020 - 15:48:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/08/2020 - 16:02:35: Log file closed.
+L 02/08/2020 - 16:02:48: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200208.log") (Version "1.10.0.6459")
+L 02/08/2020 - 16:02:48: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 16:03:11: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/08/2020 - 16:03:12: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 16:03:12: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/08/2020 - 16:03:12: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/08/2020 - 16:22:12: Log file closed.
+L 02/08/2020 - 16:22:25: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200208.log") (Version "1.10.0.6459")
+L 02/08/2020 - 16:22:25: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 16:24:12: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/08/2020 - 16:24:13: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 16:24:13: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/08/2020 - 16:24:13: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/08/2020 - 21:10:33: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200208.log") (Version "1.10.0.6459")
+L 02/08/2020 - 21:10:33: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 21:18:36: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200208.log") (Version "1.10.0.6459")
+L 02/08/2020 - 21:18:36: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 21:19:49: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/08/2020 - 21:19:49: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/08/2020 - 21:19:49: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/08/2020 - 21:19:50: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 21:28:59: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200208.log") (Version "1.10.0.6459")
+L 02/08/2020 - 21:28:59: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 21:29:23: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/08/2020 - 21:29:23: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/08/2020 - 21:29:23: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/08/2020 - 21:29:24: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 21:30:50: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> gave SρyBҽҽ<2><STEAM_1:1:160125472><> one level of upgrade Stealth at no charge. Upgrade level changed from 0 to 1.
+L 02/08/2020 - 21:30:51: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> gave SρyBҽҽ<2><STEAM_1:1:160125472><> one level of upgrade Stealth at no charge. Upgrade level changed from 1 to 2.
+L 02/08/2020 - 21:30:51: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> gave SρyBҽҽ<2><STEAM_1:1:160125472><> one level of upgrade Stealth at no charge. Upgrade level changed from 2 to 3.
+L 02/08/2020 - 21:30:51: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> gave SρyBҽҽ<2><STEAM_1:1:160125472><> one level of upgrade Stealth at no charge. Upgrade level changed from 3 to 4.
+L 02/08/2020 - 21:30:51: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> gave SρyBҽҽ<2><STEAM_1:1:160125472><> one level of upgrade Stealth at no charge. Upgrade level changed from 4 to 5.
+L 02/08/2020 - 21:30:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> gave SρyBҽҽ<2><STEAM_1:1:160125472><> one level of upgrade Stealth at no charge. Upgrade level changed from 5 to 5.
+L 02/08/2020 - 21:30:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> gave SρyBҽҽ<2><STEAM_1:1:160125472><> one level of upgrade Stealth at no charge. Upgrade level changed from 5 to 5.
+L 02/08/2020 - 21:30:52: [smrpg.smx] SρyBҽҽ<2><STEAM_1:1:160125472><> gave SρyBҽҽ<2><STEAM_1:1:160125472><> one level of upgrade Stealth at no charge. Upgrade level changed from 5 to 5.
+L 02/08/2020 - 21:32:45: Log file closed.
+L 02/08/2020 - 21:32:57: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200208.log") (Version "1.10.0.6459")
+L 02/08/2020 - 21:32:57: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 21:33:11: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/08/2020 - 21:33:11: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/08/2020 - 21:33:11: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/08/2020 - 21:33:12: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 21:35:05: Log file closed.
+L 02/08/2020 - 21:35:15: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200208.log") (Version "1.10.0.6459")
+L 02/08/2020 - 21:35:15: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 21:36:47: -------- Mapchange to surf_dust2_2015_csgo --------
+L 02/08/2020 - 21:36:49: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime
+L 02/08/2020 - 21:36:49: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 02/08/2020 - 21:36:49: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 02/08/2020 - 21:47:45: Log file closed.
+L 02/08/2020 - 21:47:57: SourceMod log file session started (file "/mnt/hlserver_extension1/27620/csgo/addons/sourcemod/logs/L20200208.log") (Version "1.10.0.6459")
+L 02/08/2020 - 21:47:57: [anticamp.smx] addons/sourcemod/configs/anticamp_csgo_weapons.cfg not parsed...file doesn't exist! Using sm_anticamp_camptime

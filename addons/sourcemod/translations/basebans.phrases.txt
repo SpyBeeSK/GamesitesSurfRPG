@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"Ban player"
+	{
+		"cze"			"Zabanovat hráče"
+	}
+
+	"Ban reason"
+	{
+		"cze"			"Důvod banu"
+	}
+	
+	"Permabanned player"
+	{
+		"#format"		"{1:s}"
+		"cze"			"Permanentně zabanoval hráče \"{1}\"."
+	}
+	
+	"Permabanned player reason"
+	{
+		"#format"		"{1:s},{2:s}"
+		"cze"			"Permanentně zabanoval hráče \"{1}\" (důvod: {2})."
+	}
+	
+	"Banned player"
+	{
+		"#format"		"{1:s},{2:d}"
+		"cze"			"Zabanoval hráče \"{1}\" na {2} minut."
+	}
+	
+	"Banned player reason"
+	{
+		"#format"		"{1:s},{2:d},{3:s}"
+		"cze"			"Zabanoval \"{1}\" na {2} minut (důvod: {3})."
+	}
+	
+	"Removed bans matching"
+	{
+		"#format"		"{1:s}"
+		"cze"			"Odstranil bany odpovídající: {1}"
+	}
+	
+	"Ban added"
+	{
+		"cze"			"Byl přidán."
+	}
+	
+	"Cannot ban that IP"
+	{
+		"cze"			"Nemůžeš zabanovat tuto IP adresu."
+	}
+	
+	"Custom ban reason explanation"
+	{
+		"#format"		"{1:s}"
+		"cze"			"Napiš důvod do chatu. Použij {1} k zrušení."
+	}
+	
+	"AbortBan applied successfully"
+	{
+		"cze"			"Ban zrušen."
+	}
+	
+	"AbortBan not waiting for custom reason"
+	{
+		"cze"			"Nadále se nečeká na napsání důvodu do chatu, ban zrušen."
+	}
+}

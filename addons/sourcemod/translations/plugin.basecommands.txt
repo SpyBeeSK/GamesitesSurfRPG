@@ -1,0 +1,154 @@
+"Phrases"
+{
+	"Unable to find cvar"
+	{
+		"#format"		"{1:s}"
+		"cze"			"Nemožné najít cvar: {1}"
+	}
+	
+	"No access to cvar"
+	{
+		"cze"			"Nemáš přístup k tomuto cvar."
+	}
+	
+	"Value of cvar"
+	{
+		"#format"		"{1:s},{2:s}"
+		"cze"			"Hodnota cvaru \"{1}\": \"{2}\""
+	}
+	
+	"Cvar changed"
+	{
+		"#format"		"{1:s},{2:s}"
+		"cze"			"Změnil cvar \"{1}\" na \"{2}\"."
+	}
+	
+	"Config not found"
+	{
+		"#format"		"{1:s}"
+		"cze"			"Config soubor \"{1}\" nebyl nalezen."
+	}
+	
+	"Executed config"
+	{
+		"#format"		"{1:s}"
+		"cze"			"Zrušen config \"{1}\"."
+	}
+
+	"Permabanned player"
+	{
+		"#format"		"{1:s}"
+		"cze"			"Permanentně zabanoval hráče \"{1}\"."
+	}
+	
+	"Permabanned player reason"
+	{
+		"#format"		"{1:s},{2:s}"
+		"cze"			"Permanentně \"{1}\" (důvod: {2})."
+	}
+	
+	"Banned player"
+	{
+		"#format"		"{1:s},{2:d}"
+		"cze"			"Zabanoval hráče \"{1}\" na {2} minut."
+	}
+	
+	"Banned player reason"
+	{
+		"#format"		"{1:s},{2:d},{3:s}"
+		"cze"			"Zabanoval hráče \"{1}\" na {2} minut (důvod: {3})."
+	}
+	
+	"Removed bans matching"
+	{
+		"#format"		"{1:s}"
+		"cze"			"Odstranil bany podle filtru: {1}"
+	}
+	
+	"Ban added"
+	{
+		"cze"			"Ban byl přidán."
+	}
+	
+	"Admin cache refreshed"
+	{
+		"cze"			"Cache adminů byla obnovena."
+	}
+	
+	"Identify player"
+	{
+		"cze"			"Identifikovat hráče"
+	}
+	
+	"Choose Map"
+	{
+		"cze"			"Vybrat mapu
+	}
+	
+	"Exec CFG"
+	{
+		"cze"			"Exec CFG"
+	}
+	
+	"Admin logged in as"
+	{
+		"#format"		"{1:s},{2:s},{3:s}"
+		"cze"			"\"{1}\" přihlášen jako \"{2}\" má práva: {3}"
+	}
+	
+	"Admin logged in anon"
+	{
+		"#format"		"{1:s},{2:s}"
+		"cze"			"\"{1}\" má přístup: {2}"
+	}
+	
+	"Player is not an admin"
+	{
+		"#format"		"{1:s}"
+		"cze"			"\"{1}\" není admin."
+	}
+	
+	"Player is an admin"
+	{
+		"#format"		"{1:s}"
+		"cze"			"\"{1}\" je admin."
+	}
+	
+	"Username"
+	{
+		"cze"			"Jméno"
+	}
+	
+	"Kicked target"
+	{
+		"#format"		"{1:t}"
+		"cze"			"Vyhodil hráče {1}"
+	}
+
+	"Kicked target reason"
+	{
+		"#format"		"{1:t},{2:s}"
+		"cze"			"Vyhodil hráče {1} (důvod: {2})"
+	}
+	
+	"Admin access"
+	{
+		"cze"			"Admin přístup"
+	}
+	
+	"Cvar is now protected"
+	{
+		"#format"		"{1:s}"
+		"cze"			"Cvar {1} je nyní chráněno."
+	}
+	
+	"Please select a map"
+	{
+		"cze"			"Prosím, vyberte mapu"
+	}
+	
+	"Choose Config"
+	{
+		"cze"			"Vyberte Config"
+	}
+}

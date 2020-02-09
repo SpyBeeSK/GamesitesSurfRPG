@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"Map History"
+	{
+		"cze"		"Historie mapy"
+	}
+
+	"Map"
+	{
+		"cze"		"[Mapa]"
+	}
+
+	"Started"
+	{
+		"cze"		"[Začala]"
+	}
+
+	"Played Time"
+	{
+		"cze"		"[Nahraný čas]"
+	}
+
+	"Reason"
+	{
+		"cze"		"[Důvod konce]"
+	}
+
+	"Current Map"
+	{
+		"cze"		"Současná mapa"
+	}
+
+	"ago"
+	{
+		"cze"		"před"
+	}
+}
